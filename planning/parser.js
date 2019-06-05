@@ -20,7 +20,7 @@ let satArray = data.map(object => {
         inclination: object.inclination,
         period: object.period,
         launchMass: object['launch-mass'],
-        dryMass: object['dry-mass'],
+        //dryMass: object['dry-mass'],
         power: object.power,
         dateOfLaunch: object['date-of-launch'],
         expectedLifetime: object['expected-lifetime'],
@@ -40,7 +40,7 @@ let satArray = data.map(object => {
 let countryArray = data.map(object => {
     let country = {
         name: object.country,
-        satellites: null,
+        satellites: [null],
         contractors: null,
     }
     return country;
@@ -62,7 +62,7 @@ let contractorArray = data.map(object => {
     let contractor = {
         name: object.contractor,
         country: null,
-        satellites: null
+        satellites: [null]
     }
     return contractor;
 })
