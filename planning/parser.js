@@ -62,7 +62,7 @@ countryArray = countryArray.filter(currentObject => {
 let contractorArray = data.map(object => {
     let contractor = {
         name: object.contractor,
-        country: object.country,
+        country: null,
         satellites: null
     }
     return contractor;
