@@ -57,17 +57,17 @@ let contractorArray = data.map(object => {
     return contractor;
 })
 
-fs.writeFile('./data/satelliteData.json', JSON.stringify(satArray), (err) => {
+fs.writeFile('./data/satelliteData.json', JSON.stringify(satArray, null, 2), (err) => {
     if(err) throw err;
     console.log("Satellite data updated")
 })
 
-fs.writeFile('./data/countryData.json', JSON.stringify(countryArray), (err) => {
+fs.writeFile('./data/countryData.json', JSON.stringify(countryArray, null, 2), (err) => {
     if(err) throw err;
     console.log("Country data updated")
 })
 
-fs.writeFile('./data/contractorData.json', JSON.stringify(contractorArray), (err) => {
+fs.writeFile('./data/contractorData.json', JSON.stringify(contractorArray, null, 2), (err) => {
     if(err) throw err;
     console.log("Contractor data updated")
 })
