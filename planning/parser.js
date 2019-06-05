@@ -1,6 +1,5 @@
 const data = require('../srcData/sourceData.json');
 const fs = require('fs');
-const path = require('path')
 
 // Parse through each object in the data array and extract relevant properties for a satellite
 let satArray = data.map(object => {

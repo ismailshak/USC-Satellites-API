@@ -1,2212 +1,2212 @@
 [
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "Algeria",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Algeria",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "Algeria",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Algeria",
-    "satellites": null
-  },
-  {
-    "name": "Aprize Satellite",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
-    "name": "INVAP S.E.",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
-    "name": "Satellogic S.A.",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
-    "name": "Argentinian Ministry of Science, Technology and Productive Innovation",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
-    "name": "SpaceQuest",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
-    "name": "Satellogic",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
-    "name": "INVAP",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
-    "name": "Defence Science and Technology Group/University of New South Wales",
-    "country": "Australia",
-    "satellites": null
-  },
-  {
-    "name": "Pumpkin Space Systems",
-    "country": "Australia",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Australia",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Australia",
-    "satellites": null
-  },
-  {
-    "name": "Fleet Space Technologies",
-    "country": "Australia",
-    "satellites": null
-  },
-  {
-    "name": "University of Toronto Institute for Aerospace Studies (UTIAS)",
-    "country": "Austria",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Bangladesh",
-    "satellites": null
-  },
-  {
-    "name": "Kyushu Institute of Technology (KIT)",
-    "country": "Bangladesh",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology/Thales Alenia Space",
-    "country": "Belarus",
-    "satellites": null
-  },
-  {
-    "name": "NPO VNIIEM",
-    "country": "Belarus",
-    "satellites": null
-  },
-  {
-    "name": "Innovative Solutions in Space (ISIS)",
-    "country": "Belgium",
-    "satellites": null
-  },
-  {
-    "name": "JAXA/Kyushu Institute of Technology",
-    "country": "Bhutan",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Brazil",
-    "satellites": null
-  },
-  {
-    "name": "Technological Institute of Aeronautics",
-    "country": "Brazil",
-    "satellites": null
-  },
-  {
-    "name": "Instituto Nacional de Pesquisas Espaciais (INPE)",
-    "country": "Brazil",
-    "satellites": null
-  },
-  {
-    "name": "Endurosat/Bulgarian Radio Amateur Union",
-    "country": "Bulgaria",
-    "satellites": null
-  },
-  {
-    "name": "University of Toronto, Institute for Aerospace Studies",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "University of Toronto Institute for Aerospace Studies",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Canadian Space Agency",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Space Flight Laboratory (SFL)",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "University of Alberta",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "University of Toronto, Institute for Aerospace Studies/ Space Flight Laboratory",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Kepler Communications",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Com Dev International (Honeywell Canada)",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Dynacon Inc./University of Toronto Institute for Aerospace Studies/University of British Columbia",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Microsat Systems Canada Inc.",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "MacDonald, Dettwiler/Thales Alenia Spazio",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology, Ltd/MacDonald, Dettwiler and Associates",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Bristol Aerospace Ltd.",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
-    "country": "Chile",
-    "satellites": null
-  },
-  {
-    "name": "University of Chile",
-    "country": "Chile",
-    "satellites": null
-  },
-  {
-    "name": "Northwestern Polytechnical University (NPU)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Space Industries",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Tsinghua University/University of Surrey",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Innovation Academy for Microsatellites (CAS)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Engineering Center for Microsatellites",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chinese Academy of Sciences",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Science",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shenzhen Aerospace Dongfanghong HIT Satellite Ltd./CAMSAT",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Link Space Aerospace Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Aerospace Science and Technology Corp. (CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Spacesat",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)/DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Aerospace Science and Industry Corporation (CASIC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Huaian Youth Comprehensive Development Base",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "National Space Science Center (NSSC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Ok Space Co Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chang Guang Satellite Technology Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Caton Universal Technology Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Tsinghua University",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Beijing Commsat Technology Development Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Harbin Institute of Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Xinwei Telecom Technology Co/Tsinghua University",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Beijing ZeroG Technology Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Wuhan University",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Nanjing University of Science and Technologyo",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "National University of Defense Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Zhuhai Orbita Aerospace Science and Technology Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chinese Academy of Sciences/Austrian Academy of Sciences",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Teen Satellite Project",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)/ DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST/DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology/Dongfanghong Satellite Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chinese Research Institute of Space Technology/Changchun Photomechanical Institute (CAS)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "CAST/DFH Satellite Co. Ltd./HIT",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Unknown",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Launch Vehicle Technology (CASIC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Nanjing University of Aeronautics and Astronautics/Shanghai Engineering Center for Microsatellites",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Spacety Aerospace Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Innovation Academy for Microsatellites/Chinese Academy of Sciences (CAS)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Spaceflight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Micro Satellite Engineering Center",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "DFH Satellite Co. Ltd./CAMSAT",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Ninth Academy of CASIC",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Satellite Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Tecnology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "CAST/Changchun Light Technology Institute",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology  (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chinese  Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chinese Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Spaceflight Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Zhejiang University",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Great Wall Industry Corporation (CGWIC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Zhuhai Orbita Control Engineering Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)/National Centre for Space Studies (CNES)",
-    "country": "China/France",
-    "satellites": null
-  },
-  {
-    "name": "China Earthquake Administration/Italian Institute for Nuclear Physics",
-    "country": "China/Italy",
-    "satellites": null
-  },
-  {
-    "name": "GomSpace",
-    "country": "Colombia",
-    "satellites": null
-  },
-  {
-    "name": "Costa Rica Institute of Technology",
-    "country": "Costa Rica",
-    "satellites": null
-  },
-  {
-    "name": "German Orbital Systems",
-    "country": "Czech Republic",
-    "satellites": null
-  },
-  {
-    "name": "Czech Aerospace Research Center (VZLU) and partners",
-    "country": "Czech Republic",
-    "satellites": null
-  },
-  {
-    "name": "University of Aalborg",
-    "country": "Denmark",
-    "satellites": null
-  },
-  {
-    "name": "Departments of Physics and Astronomy, Engineering, and Geoscience.",
-    "country": "Denmark",
-    "satellites": null
-  },
-  {
-    "name": "GomSpace/University of Aalborg",
-    "country": "Denmark",
-    "satellites": null
-  },
-  {
-    "name": "RKK Energia",
-    "country": "Egypt",
-    "satellites": null
-  },
-  {
-    "name": "Carlo Gavazzi Space (CGS) working with network of universities",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Astrium/Thales Alenia Space",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "CNES",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Verhaert Design and Development NV (leading a European consortium)",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "QinetiQ Space Belgium",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Dornier Systems (Astrium) and 35 subcontractors",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space Italia",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Dornier Systems (and 46 subcontractors)",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "European Space Agency/NASA",
-    "country": "ESA/USA",
-    "satellites": null
-  },
-  {
-    "name": "Alenia Aerospazio (and 28 subcontractors)",
-    "country": "ESA/USA/Russia",
-    "satellites": null
-  },
-  {
-    "name": "University of Aalto",
-    "country": "Finland",
-    "satellites": null
-  },
-  {
-    "name": "ICEYE Ltd.",
-    "country": "Finland",
-    "satellites": null
-  },
-  {
-    "name": "Reaktor Space Labs",
-    "country": "Finland",
-    "satellites": null
-  },
-  {
-    "name": "Aalto University",
-    "country": "Finland",
-    "satellites": null
-  },
-  {
-    "name": "Centre National D'études Spatiales (CNES)",
-    "country": "France",
-    "satellites": null
-  },
-  {
-    "name": "LESIA",
-    "country": "France",
-    "satellites": null
-  },
-  {
-    "name": "University of Montpellier",
-    "country": "France",
-    "satellites": null
-  },
-  {
-    "name": "Mines Paris Tech",
-    "country": "France",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Alenia Space",
-    "country": "France",
-    "satellites": null
-  },
-  {
-    "name": "Israel Aerospace Industries (IAI)",
-    "country": "France/Israel",
-    "satellites": null
-  },
-  {
-    "name": "German Aerospace Center (DLR)",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Technical University Berlin",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Technical  University Berlin",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Deutsches Zentrum für Luft- und Raumfahrt",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "FH Aachen",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Institute of Aeronautics and Astronautics, Technical University of Berlin",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "University of Stuttgart",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Technical University of Munich",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology, Ltd.",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "OHB System-AG",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System AG",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Kayser-Threde GmbH",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "University of Würzburg",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "Greece",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Amateur Radio enthusiasts",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "IRSO Satellite Center",
-    "country": "India",
+    "name": "Space Systems Design Studio, Cornell University",
+    "country": null,
     "satellites": null
   },
   {
     "name": "Indian Institute of Technology Kanpur",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Noorul Islam University",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "PES University, Bengaluru",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Israel Aircraft Industries (IAI)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "SRM University",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "College of Engineering, Pune",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indonesian National Institute of Aeronautics and Space",
-    "country": "Indonesia",
-    "satellites": null
-  },
-  {
-    "name": "Polyot",
-    "country": "Iran",
-    "satellites": null
-  },
-  {
-    "name": "La Sapienza University of Rome",
-    "country": "Iraq",
-    "satellites": null
-  },
-  {
-    "name": "Israel Aircraft Industries (IAI)/Ben Gurion University",
-    "country": "Israel",
-    "satellites": null
-  },
-  {
-    "name": "Herzliya Science Center (HSC)",
-    "country": "Israel",
-    "satellites": null
-  },
-  {
-    "name": "Israel Aircraft Industries (IAI), Missiles and Space Group",
-    "country": "Israel",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Italy",
-    "satellites": null
-  },
-  {
-    "name": "OHB Italia",
-    "country": "Italy",
-    "satellites": null
-  },
-  {
-    "name": "Two high schools and OHB System AG",
-    "country": "Italy",
-    "satellites": null
-  },
-  {
-    "name": "Alenia Spazio",
-    "country": "Italy",
-    "satellites": null
-  },
-  {
-    "name": "University of Rome - La Sapienza",
-    "country": "Italy",
-    "satellites": null
-  },
-  {
-    "name": "Astro Live Experiences",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Kyushu Institute of Technology",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "NEC Corporation",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Canon Electronics Space Technology Laboratory",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Nagoya University and Daido University",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Department of Astronautics, University of Tokyo",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "PHL Microsat",
-    "country": "Japan",
+    "country": null,
     "satellites": null
   },
   {
     "name": "Japan Aerospace Exploration Agency (JAXA)",
-    "country": "Japan",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Axelspace",
-    "country": "Japan",
+    "name": "University of Aalto",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "University of Tokyo",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi/Toshiba",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "JAXA/National Institute of Information and Communications Technology (NICT)",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Tokyo Metropolitan College of Industrial Technology",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric/Boeing/Alcatel",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Nahon University",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems/Orbital Sciences",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Tokyo Institute of Technology",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Kyushu University",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Institute of Space and Astronautical Science (ISAS)",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Tohoku University",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Tohoku University/Hokkaido University",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Nihon University",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Advanced Engineering Services Company, Ltd.",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Space Oriented Higashiosaka Leading Association",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Kagawa University",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Kyushu Technical University",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Tokyo Institute of Technology, Tokyo University of Science and JAXA",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Wakayama University and other Japanese universities",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Kyushu Institute of Technology (Kyutech)/Nanyang Technological University (NTU)",
-    "country": "Japan/Singapore",
-    "satellites": null
-  },
-  {
-    "name": "Royal Jordanian Radio Amateur Society",
-    "country": "Jordan",
-    "satellites": null
-  },
-  {
-    "name": "Al-Farabi Kazakh National University",
-    "country": "Kazakhstan",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defence and Space",
-    "country": "Kazakhstan",
-    "satellites": null
-  },
-  {
-    "name": "Khrunichev",
-    "country": "Kazakhstan",
-    "satellites": null
-  },
-  {
-    "name": "Ventspils High Technology Park/Bremen University of Applied Sciences/OHB Systems",
-    "country": "Latvia",
-    "satellites": null
-  },
-  {
-    "name": "Vilnius University",
-    "country": "Lithuania",
-    "satellites": null
-  },
-  {
-    "name": "Hughes Space and Communications Co.",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Orbital ATK",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "ATSB",
-    "country": "Malaysia",
-    "satellites": null
-  },
-  {
-    "name": "Thales/Alenia Space and Airbus Defense and Space",
-    "country": "Morocco",
-    "satellites": null
-  },
-  {
-    "name": "CRTS Morocco/Institut für Luft-und Raumfahrttechnik",
-    "country": "Morocco/Germany",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Astro Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin/Spar Aerospace",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Space Research Center, Polish Academy of Sciences",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Multiple European aerospace companies",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Defense and Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "EADS Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "NASA/Goddard Space Flight Center",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Institute of Space and Aeronautical Science, University of Tokyo/NASA",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems (prime)/Multinational",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Lavochkin",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Swales Aerospace",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Technical University of Delft",
-    "country": "Netherlands",
-    "satellites": null
-  },
-  {
-    "name": "AMSAT/UK-AMSAT/NL",
-    "country": "Netherlands",
-    "satellites": null
-  },
-  {
-    "name": "Hiber Global",
-    "country": "Netherlands",
-    "satellites": null
-  },
-  {
-    "name": "Netherlands Organization for Applied Scientific Research (NTO) consortium",
-    "country": "Netherlands",
-    "satellites": null
-  },
-  {
-    "name": "Kongsberg Seatex AS/University of Toronto Institute for Aerospace Studies",
-    "country": "Norway",
-    "satellites": null
-  },
-  {
-    "name": "Norwegian Space Center",
-    "country": "Norway",
-    "satellites": null
-  },
-  {
-    "name": "CAST/DFH Satellite Co. Ltd.",
-    "country": "Pakistan",
-    "satellites": null
-  },
-  {
-    "name": "Philippine Scientific Earth Observation Microsatellite (PHL-Microsat) Program",
-    "country": "Philippines",
-    "satellites": null
-  },
-  {
-    "name": "Warsaw University of Technology",
-    "country": "Poland",
-    "satellites": null
-  },
-  {
-    "name": "TsSKB Progress",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Samara State Aerospace University, SGAU",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Samara State Aerospace University/TsSKB Progress",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Sputnix Ltd.",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Progress Rocket and Space Center",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO Lavochkin",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Dauria Aerospace",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO-PM/Alcatel",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO-PM/Thales Alenia Space",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO-ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "All-Russia Research Institute of Electromechanics (NPP VNIIEM)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Roscosmos",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO Mashinostroyeniya",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "TsSKB-Progress Samara Space Center and KB Arsenal",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev/Thales Alenia Space",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO Resetneva",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "PO Polyot",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "VNIIEM",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Mozhaiskiy Space Engineering Academy",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO-PM",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Information Satellite Systems (formerly NPO-PM)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Nilakt Posto and radio amateurs",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Applied Mechanics (NPO)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "TsSKB Progress (State Research & Production Space Rocket Center)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAS ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Roskosmos/Russian Academy of Sciences",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "SPUTNIX Ltd. Sirius Education Center",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO/PM - Scientific Research Institute for Precision Instruments (NII-TP)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Southwestern State University",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "KB Yuznoye",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Rocket-Space Corporation Energia/Alcatel",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Thales",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Dauria Aerospace/Canopus Systems",
-    "country": "Russia/USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Research Institute, King Abdulaziz City for Science and Technology",
-    "country": "Saudi Arabia",
-    "satellites": null
-  },
-  {
-    "name": "Riyadh Space Research Institute",
-    "country": "Saudi Arabia",
-    "satellites": null
-  },
-  {
-    "name": "King Abdulaziz City for Science and Technology",
-    "country": "Saudi Arabia",
-    "satellites": null
-  },
-  {
-    "name": "King Abdulaziz City for Science and Technology/Stanford University",
-    "country": "Saudi Arabia",
-    "satellites": null
-  },
-  {
-    "name": "Microspace Rapid Pvt Ltd.",
-    "country": "Singapore",
-    "satellites": null
-  },
-  {
-    "name": "National University of Singapore",
-    "country": "Singapore",
-    "satellites": null
-  },
-  {
-    "name": "ST Electronics Ltd.",
-    "country": "Singapore",
-    "satellites": null
-  },
-  {
-    "name": "Nanyang Technological University",
-    "country": "Singapore",
-    "satellites": null
-  },
-  {
-    "name": "Centre for Research in Satellite Technology (CREST)",
-    "country": "Singapore",
-    "satellites": null
-  },
-  {
-    "name": "Slovak Organization for Space Activities, University of Zilina",
-    "country": "Slovakia",
-    "satellites": null
-  },
-  {
-    "name": "SCS Space",
-    "country": "South Africa",
-    "satellites": null
-  },
-  {
-    "name": "Stellenbosch  University",
-    "country": "South Africa",
-    "satellites": null
-  },
-  {
-    "name": "French South African Institute of Technology/Cape Peninsula University of Technology",
-    "country": "South Africa",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium/Electronics and Telecommunications Research Institute (ETRI)",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "Korea Aerospace Research Institute (KARI)",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "Korea Aerospace Research Institute (KARI)/ EADS Astrium",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "SaTReC (Satellite Technology Research Center) of KAIST",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "Seoul National University",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "Chosun University",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "Korea Advanced Institute of Science and Technology (KAIST)",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "Universitat Politècnica de Catalunya",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "GomSpace ApS",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "Satrec Initiative",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "University of Vigo/Alén Space",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "Instituto Nacional de Técnia Aeroespacial (INTA)",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "Instituto Nacional de Tecnica Aerospacial (INTA)",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "Swedish Space Corporation/Canadian Space Agency/National Technology Agency of Finland/Centre National d'Etudes Spatiales",
-    "country": "Sweden",
-    "satellites": null
-  },
-  {
-    "name": "Astrocast",
-    "country": "Switzerland",
-    "satellites": null
-  },
-  {
-    "name": "Innovative Solutions in Space BV",
-    "country": "Switzerland",
-    "satellites": null
-  },
-  {
-    "name": "Ecole Polytechnique Fédérale de Lausanne (EPFL)",
-    "country": "Switzerland",
-    "satellites": null
-  },
-  {
-    "name": "National Space Organization",
-    "country": "Taiwan",
-    "satellites": null
-  },
-  {
-    "name": "National Cheng Kung University",
-    "country": "Taiwan",
-    "satellites": null
-  },
-  {
-    "name": "Istanbul Technical University/Turkish Air Force Academy",
-    "country": "Turkey",
-    "satellites": null
-  },
-  {
-    "name": "TÜBİTAK Space Technologies Research Institute/Turkish Aerospace Industries",
-    "country": "Turkey",
-    "satellites": null
-  },
-  {
-    "name": "ITU Space Systems Design & Test Laboratory",
-    "country": "Turkey",
-    "satellites": null
-  },
-  {
-    "name": "Space Technologies Research Institute",
-    "country": "Turkey",
-    "satellites": null
-  },
-  {
-    "name": "National Technical University",
-    "country": "Ukraine",
-    "satellites": null
-  },
-  {
-    "name": "Mohammed bin Rashid Space Center",
-    "country": "United Arab Emirates",
-    "satellites": null
-  },
-  {
-    "name": "Mohammed bin Rashid Space Centre/American University of Sharjah",
-    "country": "United Arab Emirates",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp.",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Clyde Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technologies Ltd./Airbus Defense and Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "OneWeb Satellites",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Limited (SSTL)",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd. (SSTL)",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "University College London",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Facultad de Ingeniería de la Universidad de la República (FING), ANTEL",
-    "country": "Uruguay",
-    "satellites": null
-  },
-  {
-    "name": "TRW Space and Electronics",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory (?)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "University of Southern California",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Aerospace Corporation",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "NASA Glenn Research Center",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "US Air Force Institute of Technology",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Millennium Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Amsat-NA",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planetary Resources",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "NASA Jet Propulsion Laboratory/MIT",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Astranis",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Audacy",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Salish Kootenai College",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spaceflight Industries",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Capella Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Johns Hopkins Applied Physics Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "M42 Technologies",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "NASA Goddard Space Flight Center",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "University of Florida",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Tyvak Nanosatellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Sciences Laboratory (SSL) of the University of California Berkeley;  Kyung Hee University (KHU), Imperial College London",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "NASA Jet Propulsion Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spectrum Astro, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "California Polytechnic University/NASA JPL",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Blue Canyon Technologies",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "California State University at Northridge/NASA JPL",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Ohio State University/NASA",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "University of Illinois Urbana-Champaign",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems Design Studio, Cornell University",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Morehead State University",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Southwest Research Institute",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "California Polytechnic University",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "North Idaho STEM Charter Academy",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "DARPA/University of Utah",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Space & Intelligence Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Development Center",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "TRW and Aerojet Electronics Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Northrup Grumman (formerly TRW)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Aeronautics and Space Administration (NASA)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "University of California",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "TRW",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Brown University",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "NovaWurks",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "US Air Force Academy",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "University of Texas - Austin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "General Dynamics",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Office (NRO)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Montana State University",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "TRW, Defense and Space Systems Group",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Los Alamos National Laboratory/Sandia National Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "AMSAT/Penn State University/Vanderbilt University/Virginia Tech",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Radio Amateur Satellite Corporation (AMSAT)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "AMSAT/University of Iowa/Penn State Erie/Virginia Tech",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "NearSpace Launch/Air Force Research Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Bigelow Aerospace",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral/Alenia Aerospazio",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Michigan Exploration Laboratory, University of Michigan",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "GomSpace/Unitas SFL",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Harris Corporation",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Northrup Grumman Information Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Motorola Satellite Communications Group",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Space Systems Advanced Technology Center (ATC)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Irvine, CA and Tustin-CA student-built",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "SRI International/CalPoly",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "U.S. Army Space and Missile Defense Command/Army Forces Strategic Command",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Astronautics",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Astro Digital",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "NanoSatisfi Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Northwest Nazarene University",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "University of Michigan/Montana University/Montana Space Grant Consortium",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "MIT/LL-UM  Amherst",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Student-built",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Massachusetts Institute of Technology",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Ball Aerospace/TRW/Raytheon",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "New Mexico Institute of Mining and Technology",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Ball Aerospace and Technologies Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Ball Aerospace",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "NASA/Ames Research Center",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp./Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Firmamentum",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "MIT Lincoln Laboratory",
-    "country": "USA",
+    "name": "University of Toronto Institute for Aerospace Studies (UTIAS)",
+    "country": null,
     "satellites": null
   },
   {
     "name": "US Naval Academy",
-    "country": "USA",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Raytheon",
-    "country": "USA",
+    "name": "Tyvak Nanosatellite Systems",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Los Alamos National Laboratory",
-    "country": "USA",
+    "name": "Technical University Berlin",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Norhrup Grumman/Blue Canyon Technologies",
-    "country": "USA",
+    "name": "Link Space Aerospace Technology",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Vanderbilt University/AMSAT",
-    "country": "USA",
+    "name": "Instituto Nacional de Técnia Aeroespacial (INTA)",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Analytical Space",
-    "country": "USA",
+    "name": "Kayser-Threde GmbH",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Georgia Institute of Technology",
-    "country": "USA",
+    "name": "Indonesian National Institute of Aeronautics and Space",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "L3 Technologies (previously Applied Defense Solutions)",
-    "country": "USA",
+    "name": "Dynacon Inc./University of Toronto Institute for Aerospace Studies/University of British Columbia",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Boeing/Ball Aerospace",
-    "country": "USA",
+    "name": "Norwegian Space Center",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "National Reconnaissance Laboratory (NRL)",
-    "country": "USA",
+    "name": "Swales Aerospace",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Goddard Space Flight Center",
-    "country": "USA",
+    "name": "Tohoku University/Hokkaido University",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "University of North Carolina/Clyde",
-    "country": "USA",
+    "name": "Orbital Sciences Corp.",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Ratheon Corporation",
-    "country": "USA",
+    "name": "Tsinghua University/University of Surrey",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Air Force Research Laboratory (AFRL)",
-    "country": "USA",
+    "name": "University of Tokyo",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "NASA Langley Research Center",
-    "country": "USA",
+    "name": "Thales Alenia Space/Orbital ATK",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "SRI International",
-    "country": "USA",
+    "name": "Motorola Satellite Communications Group",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Skybox Imaging",
-    "country": "USA",
+    "name": "Lockheed Martin Space Systems Advanced Technology Center (ATC)",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Jet Propulsion Laboratory (NASA)",
-    "country": "USA",
+    "name": "Los Alamos National Laboratory/Sandia National Laboratory",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Miltec",
-    "country": "USA",
+    "name": "Surrey Satellite Technology Ltd.",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "US Army Space and Missile Defense Command",
-    "country": "USA",
+    "name": "CRTS Morocco/Institut für Luft-und Raumfahrttechnik",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Naval Post-Graduate School",
-    "country": "USA",
+    "name": "Instituto Nacional de Pesquisas Espaciais (INPE)",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Swarm Technologies",
-    "country": "USA",
+    "name": "Bristol Aerospace Ltd.",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "SpaceX",
-    "country": "USA",
+    "name": "Verhaert Design and Development NV (leading a European consortium)",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "West Virginia University",
-    "country": "USA",
+    "name": "Advanced Engineering Services Company, Ltd.",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Sierra Nevada Corp.",
-    "country": "USA",
+    "name": "Deutsches Zentrum für Luft- und Raumfahrt",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Northrop Grumman",
-    "country": "USA",
+    "name": "Institute of Aeronautics and Astronautics, Technical University of Berlin",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "University of Central Florida",
-    "country": "USA",
+    "name": "ISS Reshetnev",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Naval Research Laboratory/Johns Hopkins University Applied Physics Laboratory",
-    "country": "USA",
+    "name": "Wakayama University and other Japanese universities",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "TRW Defense and Space Systems Group",
-    "country": "USA",
+    "name": "Korea Advanced Institute of Science and Technology (KAIST)",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "NASA Ames Research Center",
-    "country": "USA",
+    "name": "Centre for Research in Satellite Technology (CREST)",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Colorado State University, NASA Jet Propulsion Laboratory, Blue Canyon Technologies, Inc.",
-    "country": "USA",
+    "name": "Dornier Systems (Astrium) and 35 subcontractors",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "NASA/MIT",
-    "country": "USA",
+    "name": "NASA/Goddard Space Flight Center",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "SpaceQuest, Ltd.",
-    "country": "USA",
+    "name": "NPO VNIIEM",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "All-Russia Research Institute of Electromechanics (NPP VNIIEM)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "OAO ISS",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "OAO ISS",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "OAS ISS",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Swedish Space Corporation/Canadian Space Agency/National Technology Agency of Finland/Centre National d'Etudes Spatiales",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Satrec Initiative",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Boeing Corp./Sierra Nevada Corp.",
+    "country": null,
     "satellites": null
   },
   {
     "name": "Applied Physics Laboratory, Johns Hopkins",
-    "country": "USA",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Tyvak Nanosatellite Systems, Inc.",
-    "country": "USA",
+    "name": "Spectrum Astro, Inc.",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "University of Southern Indiana/NASA",
-    "country": "USA",
+    "name": "Thales Alenia Space",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Johns Hopkins University Applied Physics Laboratory",
-    "country": "USA",
+    "name": "Alcatel Alenia Space",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Boeing Integrated Defense Systems",
-    "country": "USA",
+    "name": "ISRO Satellite Center",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Spar Aerospace",
-    "country": "USA/Canada",
+    "name": "NASA Jet Propulsion Laboratory",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "NASA Jet Propulsion Laboratory/Airbus",
-    "country": "USA/Germany",
+    "name": "Ball Aerospace/TRW/Raytheon",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "Boeing",
-    "country": "USA/Japan",
+    "name": "Canadian Space Agency",
+    "country": null,
     "satellites": null
   },
   {
-    "name": "NASA/Jet Propulsion Laboratory/Japan Aerospace Exploration Agency/Equatorial Systems (Brazil)",
-    "country": "USA/Japan/Brazil",
+    "name": "Astrium",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Alcatel Space Industries",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Israel Aircraft Industries (IAI)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Lockheed Martin Missiles & Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Lockheed Martin Space Systems",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "EADS Astrium",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NEC Corporation",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Indian Space Research Organization (ISRO)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Korea Aerospace Research Institute (KARI)/ EADS Astrium",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Institute of Space and Aeronautical Science, University of Tokyo/NASA",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Naval Research Laboratory/Johns Hopkins University Applied Physics Laboratory",
+    "country": null,
     "satellites": null
   },
   {
     "name": "Spectrum Astro (General Dynamics)",
-    "country": "USA/United Kingdom/Italy",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Lockheed Martin",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Boeing Satellite Systems",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Airbus Defence and Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Korea Aerospace Research Institute (KARI)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Astrium/Thales Alenia Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "TRW and Aerojet Electronics Systems",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Northrup Grumman (formerly TRW)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Hughes Space and Communications Co.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Space Systems/Loral",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Space Systems/Loral/Alenia Aerospazio",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Goddard Space Flight Center",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "IRSO Satellite Center",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "TRW Defense and Space Systems Group",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Alenia Aerospazio (and 28 subcontractors)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Rocket-Space Corporation Energia/Alcatel",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Mitsubishi Electric",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "OAO Resetneva",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Academy of Space Technology (CAST)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "European Space Agency/NASA",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "TRW Space and Electronics",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Mitsubishi Electric/Boeing/Alcatel",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Lockheed Martin Commercial Space Systems",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Ball Aerospace",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Spar Aerospace",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Alenia Spazio",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NPO-PM/Alcatel",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "INVAP S.E.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Lockheed Martin Astro Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "OHB System-AG",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Lockheed Martin/Spar Aerospace",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Airbus Defense and Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Boeing Corp.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Boeing Integrated Defense Systems",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "EADS Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Boeing Space & Intelligence Systems",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Lockheed Martin Commercial Space Systems/Orbital Sciences",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "TRW",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NASA/Jet Propulsion Laboratory/Japan Aerospace Exploration Agency/Equatorial Systems (Brazil)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Boeing Space Systems",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Universitat Politècnica de Catalunya",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Aalborg",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Southern California",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Aerospace Corporation",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "German Aerospace Center (DLR)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Kongsberg Seatex AS/University of Toronto Institute for Aerospace Studies",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "TsSKB Progress",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Samara State Aerospace University, SGAU",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Samara State Aerospace University/TsSKB Progress",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "GomSpace ApS",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Orbital ATK",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Al-Farabi Kazakh National University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NASA Glenn Research Center",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Astro Live Experiences",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "US Air Force Institute of Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Millennium Space Systems",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Amsat-NA",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Facultad de Ingeniería de la Universidad de la República (FING), ANTEL",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Kyushu Institute of Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Northwestern Polytechnical University (NPU)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Aprize Satellite",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "SpaceQuest",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Planetary Resources",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NASA Jet Propulsion Laboratory/MIT",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Astranis",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Astrocast",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Microspace Rapid Pvt Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Audacy",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Sputnix Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Costa Rica Institute of Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Istanbul Technical University/Turkish Air Force Academy",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Technical  University Berlin",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Space Technology Research Institute (part of CASC)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Academy of Space Technology/Thales Alenia Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Israel Aircraft Industries (IAI)/Ben Gurion University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "JAXA/Kyushu Institute of Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Salish Kootenai College",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Spaceflight Industries",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Kyushu Institute of Technology (KIT)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Toronto, Institute for Aerospace Studies",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Space Research Center, Polish Academy of Sciences",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Defence Science and Technology Group/University of New South Wales",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Satellogic S.A.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Toronto Institute for Aerospace Studies",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Capella Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Johns Hopkins Applied Physics Laboratory",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Canon Electronics Space Technology Laboratory",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "M42 Technologies",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Pumpkin Space Systems",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Innovation Academy for Microsatellites (CAS)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NASA Goddard Space Flight Center",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Academy of Space Technology (CAST)/National Centre for Space Studies (CNES)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Shanghai Engineering Center for Microsatellites",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Florida",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Chinese Academy of Sciences",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Nagoya University and Daido University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Space Sciences Laboratory (SSL) of the University of California Berkeley;  Kyung Hee University (KHU), Imperial College London",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "FH Aachen",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "EADS Astrium/Electronics and Telecommunications Research Institute (ETRI)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NPO Mashinostroyeniya",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Thales Alenia Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NPO/PM - Scientific Research Institute for Precision Instruments (NII-TP)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NPO-PM",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "KB Yuznoye",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Applied Mechanics (NPO)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "TsSKB-Progress Samara Space Center and KB Arsenal",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Information Satellite Systems (formerly NPO-PM)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Roskosmos/Russian Academy of Sciences",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Progress Rocket and Space Center",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "RKK Energia",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NPO Lavochkin",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Unknown",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "California Polytechnic University/NASA JPL",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Blue Canyon Technologies",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Centre National D'études Spatiales (CNES)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "California State University at Northridge/NASA JPL",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Argentinian Ministry of Science, Technology and Productive Innovation",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Ohio State University/NASA",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Illinois Urbana-Champaign",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Department of Astronautics, University of Tokyo",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Morehead State University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Southwest Research Institute",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "German Orbital Systems",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Academy of Science",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "California Polytechnic University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "North Idaho STEM Charter Academy",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Shenzhen Aerospace Dongfanghong HIT Satellite Ltd./CAMSAT",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Multiple European aerospace companies",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Technical University of Delft",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Departments of Physics and Astronomy, Engineering, and Geoscience.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "DARPA/University of Utah",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Innovative Solutions in Space BV",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Boeing Satellite Development Center",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Philippine Scientific Earth Observation Microsatellite (PHL-Microsat) Program",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "PHL Microsat",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Planet Labs, Inc.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Herzliya Science Center (HSC)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Dauria Aerospace",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "OHB Italia",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "National Aeronautics and Space Administration (NASA)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Lavochkin",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of California",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Endurosat/Bulgarian Radio Amateur Union",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Brown University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Carlo Gavazzi Space (CGS) working with network of universities",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Boeing Defense and Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Alberta",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Space Flight Laboratory (SFL)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NovaWurks",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NPO-PM/Thales Alenia Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "OAO-ISS",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Amateur Radio enthusiasts",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "GomSpace",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "US Air Force Academy",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Shanghai Academy of Space Flight Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "General Dynamics",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Montana State University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Stuttgart",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "National Space Organization",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "AMSAT/Penn State University/Vanderbilt University/Virginia Tech",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Radio Amateur Satellite Corporation (AMSAT)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "AMSAT/University of Iowa/Penn State Erie/Virginia Tech",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "AMSAT/UK-AMSAT/NL",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "National University of Singapore",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "OHB-System GmbH, SSTL",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Aerospace Science and Technology Corp. (CASC)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Spacesat",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "GomSpace/University of Aalborg",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NearSpace Launch/Air Force Research Laboratory",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Bigelow Aerospace",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Toronto, Institute for Aerospace Studies/ Space Flight Laboratory",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "TÜBİTAK Space Technologies Research Institute/Turkish Aerospace Industries",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NASA Jet Propulsion Laboratory/Airbus",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Michigan Exploration Laboratory, University of Michigan",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Axelspace",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "GomSpace/Unitas SFL",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Hiber Global",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Academy of Space Technology (CAST)/DFH Satellite Co. Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Aerospace Science and Industry Corporation (CASIC)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Boeing",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Harris Corporation",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Huaian Youth Comprehensive Development Base",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "National Space Science Center (NSSC)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Northrup Grumman Information Systems",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "ICEYE Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Mitsubishi/Toshiba",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "ATSB",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Institute of Space and Astronautical Science (ISAS)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Boeing Satellite Systems (prime)/Multinational",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Irvine, CA and Tustin-CA student-built",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "SRI International/CalPoly",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Technological Institute of Aeronautics",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "ITU Space Systems Design & Test Laboratory",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Shanghai Ok Space Co Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Chang Guang Satellite Technology Co. Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Royal Jordanian Radio Amateur Society",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Caton Universal Technology Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Roscosmos",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Khrunichev",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Kepler Communications",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "U.S. Army Space and Missile Defense Command/Army Forces Strategic Command",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Mohammed bin Rashid Space Center",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Clyde Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "JAXA/National Institute of Information and Communications Technology (NICT)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Tsinghua University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Tokyo Metropolitan College of Industrial Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Beijing Commsat Technology Development Co. Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Astro Digital",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Spire Global",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NanoSatisfi Inc.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Harbin Institute of Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Xinwei Telecom Technology Co/Tsinghua University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Beijing ZeroG Technology Co. Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Vilnius University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "ISS Reshetnev/Thales Alenia Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Vigo/Alén Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Wuhan University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Michigan/Montana University/Montana Space Grant Consortium",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Com Dev International (Honeywell Canada)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Northwest Nazarene University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Two high schools and OHB System AG",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "PO Polyot",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "VNIIEM",
+    "country": null,
     "satellites": null
   },
   {
     "name": "Built by Vietnamese engineers studying in Japan.",
-    "country": "Vietnam",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "MIT/LL-UM  Amherst",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "CNES",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Student-built",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Thales/Alenia Space and Airbus Defense and Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Technical University of Munich",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Mozhaiskiy Space Engineering Academy",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Mohammed bin Rashid Space Centre/American University of Sharjah",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Microsat Systems Canada Inc.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "SaTReC (Satellite Technology Research Center) of KAIST",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Nahon University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Noorul Islam University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Nanjing University of Science and Technologyo",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "New Mexico Institute of Mining and Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Ball Aerospace and Technologies Corp.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Surrey Satellite Technologies Ltd./Airbus Defense and Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "SCS Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "National University of Defense Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Satellogic",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Israel Aerospace Industries (IAI)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Israel Aircraft Industries (IAI), Missiles and Space Group",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Zhuhai Orbita Aerospace Science and Technology Co.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "OneWeb Satellites",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Instituto Nacional de Tecnica Aerospacial (INTA)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Firmamentum",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Tokyo Institute of Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "MIT Lincoln Laboratory",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Zhuhai Orbita Control Engineering Co. Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "CAST/DFH Satellite Co. Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Netherlands Organization for Applied Scientific Research (NTO) consortium",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Dauria Aerospace/Canopus Systems",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "National Cheng Kung University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "LESIA",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "PES University, Bengaluru",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Raytheon",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "National Technical University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "QinetiQ Space Belgium",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Los Alamos National Laboratory",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Fleet Space Technologies",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Warsaw University of Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Innovative Solutions in Space (ISIS)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Kyushu University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Chinese Academy of Sciences/Austrian Academy of Sciences",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Norhrup Grumman/Blue Canyon Technologies",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "MacDonald, Dettwiler/Thales Alenia Spazio",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Vanderbilt University/AMSAT",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Nilakt Posto and radio amateurs",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Analytical Space",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Georgia Institute of Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Surrey Satellite Technology, Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Space Technologies Research Institute",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Johns Hopkins University Applied Physics Laboratory",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Reaktor Space Labs",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "TsSKB Progress (State Research & Production Space Rocket Center)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Tohoku University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Montpellier",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "L3 Technologies (previously Applied Defense Solutions)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "INVAP",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Surrey Satellite Technology, Ltd/MacDonald, Dettwiler and Associates",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "OHB-System AG",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Space Research Institute, King Abdulaziz City for Science and Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Riyadh Space Research Institute",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "King Abdulaziz City for Science and Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "King Abdulaziz City for Science and Technology/Stanford University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of North Carolina/Clyde",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Nihon University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Ratheon Corporation",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Thales Alenia Space Italia",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Teen Satellite Project",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Air Force Research Laboratory (AFRL)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NASA Langley Research Center",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Academy of Space Technology (CAST)/ DFH Satellite Co. Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Academy of Space Technology (CAST/DFH Satellite Co. Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Shanghai Academy of Space Flight Technology/Dongfanghong Satellite Co.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Chinese Research Institute of Space Technology/Changchun Photomechanical Institute (CAS)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "CAST/DFH Satellite Co. Ltd./HIT",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Polyot",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "SRI International",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "SPUTNIX Ltd. Sirius Education Center",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Slovak Organization for Space Activities, University of Zilina",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Skybox Imaging",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Jet Propulsion Laboratory (NASA)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Miltec",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "US Army Space and Missile Defense Command",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Naval Post-Graduate School",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Seoul National University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Space Oriented Higashiosaka Leading Association",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Swarm Technologies",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Mines Paris Tech",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Kyushu Institute of Technology (Kyutech)/Nanyang Technological University (NTU)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "SRM University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "SpaceX",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Kagawa University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Chosun University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "West Virginia University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Sierra Nevada Corp.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Surrey Satellite Technology Limited (SSTL)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Chile",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Aalto University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Central Florida",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "College of Engineering, Pune",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Ecole Polytechnique Fédérale de Lausanne (EPFL)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Southwestern State University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Surrey Satellite Technology Ltd. (SSTL)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NASA Ames Research Center",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "ST Electronics Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Colorado State University, NASA Jet Propulsion Laboratory, Blue Canyon Technologies, Inc.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Kyushu Technical University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NASA/MIT",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "SpaceQuest, Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "DFH Satellite Co. Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "DFH Satellite Co. Ltd.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Academy of Launch Vehicle Technology (CASIC)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Spacety Aerospace Co.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Innovation Academy for Microsatellites/Chinese Academy of Sciences (CAS)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "La Sapienza University of Rome",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Shanghai Academy of Spaceflight Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Tokyo Institute of Technology, Tokyo University of Science and JAXA",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Nanjing University of Aeronautics and Astronautics/Shanghai Engineering Center for Microsatellites",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Tyvak Nanosatellite Systems, Inc.",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University College London",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Southern Indiana/NASA",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Rome - La Sapienza",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "National Reconnaissance Laboratory",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Lockheed Martin Astronautics",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "National Reconnaissance Laboratory (?)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Northrop Grumman",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "National Reconnaissance Office (NRO)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Boeing/Ball Aerospace",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "NASA/Ames Research Center",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Texas - Austin",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "National Reconnaissance Laboratory (NRL)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "TRW, Defense and Space Systems Group",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "University of Würzburg",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Nanyang Technological University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Ventspils High Technology Park/Bremen University of Applied Sciences/OHB Systems",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Czech Aerospace Research Center (VZLU) and partners",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Shanghai Micro Satellite Engineering Center",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Dornier Systems (and 46 subcontractors)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "DFH Satellite Co. Ltd./CAMSAT",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Ninth Academy of CASIC",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Thales",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Shanghai Academy of Satellite Technology (SAST)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Academy of Space Tecnology (CAST)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "CAST/Changchun Light Technology Institute",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Academy of Space Technology  (CAST)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Chinese  Academy of Space Technology (CAST)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Chinese Academy of Space Technology (CAST)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Shanghai Academy of Spaceflight Technology (SAST)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Stellenbosch  University",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "French South African Institute of Technology/Cape Peninsula University of Technology",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Earthquake Administration/Italian Institute for Nuclear Physics",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "China Great Wall Industry Corporation (CGWIC)",
+    "country": null,
+    "satellites": null
+  },
+  {
+    "name": "Zhejiang University",
+    "country": null,
     "satellites": null
   }
 ]
