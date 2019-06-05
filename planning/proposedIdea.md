@@ -6,7 +6,7 @@ I am going to build an API that stores information about all satellites in orbit
 
 I broke down the data set in to three distinct entities I would want to model. The decision was based on how a user would want to query for specific data. Based on that, decisions revolved around: it would be interesting to search for specific satellites and get a list of its properties, search for a specific contractor and get a list of all the satellites it operates and more, and lastly query by specific countries and get a list of all satellites and operators it has.
 
-![model diagram](https://github.com/ismailshak/USC-Satellites-API/blob/master/planning/models.jpeg "Model Diagram")
+![model diagram](https://github.com/ismailshak/USC-Satellites-API/blob/master/planning/models.jpg "Model Diagram")
 
 ### Entity-Relationship Diagram
 
@@ -18,4 +18,4 @@ Since a single contractor can have more than one satellite, and a satellite is l
 
 Countries are associated with contractors differently than they are associated with satellites. If a country wants to launch a satellite, it has to go through a contractor, and that contractor naturally is based in a country as well. They don't necessarily have to match.
 
-![ERD diagram](https://github.com/ismailshak/USC-Satellites-API/blob/master/planning/ERD.jpeg "ERD Diagram")
+![ERD diagram](https://github.com/ismailshak/USC-Satellites-API/blob/master/planning/ERD.jpg "ERD Diagram")
