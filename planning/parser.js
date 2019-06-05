@@ -1,4 +1,4 @@
-const data = require('../src/sourceData.json');
+const data = require('../srcData/sourceData.json');
 const fs = require('fs');
 const path = require('path')
 
@@ -47,6 +47,17 @@ let countryArray = data.map(object => {
     return country;
 })
 
+// Filter out duplicate entries
+let seenNames = {};
+countryArray = countryArray.filter(currentObject => {
+    if (currentObject.name in seenNames) {
+        return false;
+    } else {
+        seenNames[currentObject.name] = true;
+        return true;
+    }
+});
+
 // Parse through and extract data relevant to the user
 let contractorArray = data.map(object => {
     let contractor = {
@@ -56,6 +67,17 @@ let contractorArray = data.map(object => {
     }
     return contractor;
 })
+
+// Filter out duplicate entries
+let seenNamesContractor = {};
+contractorArray = contractorArray.filter(currentObject => {
+    if (currentObject.name in seenNamesContractor) {
+        return false;
+    } else {
+        seenNamesContractor[currentObject.name] = true;
+        return true;
+    }
+});
 
 fs.writeFile('./data/satelliteData.json', JSON.stringify(satArray, null, 2), (err) => {
     if(err) throw err;

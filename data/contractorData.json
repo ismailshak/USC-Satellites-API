@@ -15,27 +15,12 @@
     "satellites": null
   },
   {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "Algeria",
-    "satellites": null
-  },
-  {
     "name": "EADS Astrium",
     "country": "Algeria",
     "satellites": null
   },
   {
     "name": "Aprize Satellite",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
-    "name": "Aprize Satellite",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
-    "name": "INVAP S.E.",
     "country": "Argentina",
     "satellites": null
   },
@@ -60,31 +45,6 @@
     "satellites": null
   },
   {
-    "name": "SpaceQuest",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
-    "name": "Satellogic",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
-    "name": "Satellogic",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
-    "name": "Satellogic",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
-    "name": "Satellogic",
-    "country": "Argentina",
-    "satellites": null
-  },
-  {
     "name": "Satellogic",
     "country": "Argentina",
     "satellites": null
@@ -105,27 +65,7 @@
     "satellites": null
   },
   {
-    "name": "Pumpkin Space Systems",
-    "country": "Australia",
-    "satellites": null
-  },
-  {
     "name": "Space Systems/Loral",
-    "country": "Australia",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Australia",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Australia",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
     "country": "Australia",
     "satellites": null
   },
@@ -136,37 +76,12 @@
   },
   {
     "name": "Fleet Space Technologies",
-    "country": "Australia",
-    "satellites": null
-  },
-  {
-    "name": "Fleet Space Technologies",
-    "country": "Australia",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Australia",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
     "country": "Australia",
     "satellites": null
   },
   {
     "name": "University of Toronto Institute for Aerospace Studies (UTIAS)",
     "country": "Austria",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Azerbaijan",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Azerbaijan",
     "satellites": null
   },
   {
@@ -200,11 +115,6 @@
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "Bolivia",
-    "satellites": null
-  },
-  {
     "name": "Boeing Satellite Systems",
     "country": "Brazil",
     "satellites": null
@@ -220,93 +130,8 @@
     "satellites": null
   },
   {
-    "name": "Instituto Nacional de Pesquisas Espaciais (INPE)",
-    "country": "Brazil",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Brazil",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Brazil",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Brazil",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Brazil",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Brazil",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Brazil",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Brazil",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Bulgaria",
-    "satellites": null
-  },
-  {
     "name": "Endurosat/Bulgarian Radio Amateur Union",
     "country": "Bulgaria",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "SpaceQuest",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "SpaceQuest",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "SpaceQuest",
-    "country": "Canada",
     "satellites": null
   },
   {
@@ -320,37 +145,7 @@
     "satellites": null
   },
   {
-    "name": "University of Toronto Institute for Aerospace Studies",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "University of Toronto Institute for Aerospace Studies",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "University of Toronto Institute for Aerospace Studies",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
     "name": "Canadian Space Agency",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "SpaceQuest",
     "country": "Canada",
     "satellites": null
   },
@@ -375,11 +170,6 @@
     "satellites": null
   },
   {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
     "name": "Com Dev International (Honeywell Canada)",
     "country": "Canada",
     "satellites": null
@@ -400,21 +190,6 @@
     "satellites": null
   },
   {
-    "name": "EADS Astrium",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
     "name": "MacDonald, Dettwiler/Thales Alenia Spazio",
     "country": "Canada",
     "satellites": null
@@ -426,31 +201,6 @@
   },
   {
     "name": "Bristol Aerospace Ltd.",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Canada",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
     "country": "Canada",
     "satellites": null
   },
@@ -471,251 +221,6 @@
   },
   {
     "name": "Alcatel Space Industries",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Space Technology Research Institute (part of CASC)",
     "country": "China",
     "satellites": null
   },
@@ -745,26 +250,6 @@
     "satellites": null
   },
   {
-    "name": "Chinese Academy of Sciences",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chinese Academy of Sciences",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chinese Academy of Sciences",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chinese Academy of Sciences",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "China Academy of Science",
     "country": "China",
     "satellites": null
@@ -780,67 +265,7 @@
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
     "country": "China",
     "satellites": null
   },
@@ -850,77 +275,12 @@
     "satellites": null
   },
   {
-    "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "China Spacesat",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Spacesat",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Spacesat",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Spacesat",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Spacesat",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
     "country": "China",
     "satellites": null
   },
   {
     "name": "China Academy of Space Technology (CAST)/DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)/DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)/DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Aerospace Science and Technology Corp. (CASC)",
     "country": "China",
     "satellites": null
   },
@@ -950,97 +310,12 @@
     "satellites": null
   },
   {
-    "name": "Chang Guang Satellite Technology Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chang Guang Satellite Technology Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chang Guang Satellite Technology Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chang Guang Satellite Technology Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chang Guang Satellite Technology Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chang Guang Satellite Technology Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chang Guang Satellite Technology Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chang Guang Satellite Technology Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chang Guang Satellite Technology Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chang Guang Satellite Technology Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "Caton Universal Technology Ltd.",
     "country": "China",
     "satellites": null
   },
   {
-    "name": "China Aerospace Science and Technology Corp. (CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "Tsinghua University",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Beijing Commsat Technology Development Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Beijing Commsat Technology Development Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Beijing Commsat Technology Development Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Beijing Commsat Technology Development Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Beijing Commsat Technology Development Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Beijing Commsat Technology Development Co. Ltd.",
     "country": "China",
     "satellites": null
   },
@@ -1065,37 +340,7 @@
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chang Guang Satellite Technology Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "Wuhan University",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Tsinghua University",
     "country": "China",
     "satellites": null
   },
@@ -1110,17 +355,7 @@
     "satellites": null
   },
   {
-    "name": "National University of Defense Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "Zhuhai Orbita Aerospace Science and Technology Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology",
     "country": "China",
     "satellites": null
   },
@@ -1145,111 +380,6 @@
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)/DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Aerospace Science and Technology Corp. (CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology/Dongfanghong Satellite Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology/Dongfanghong Satellite Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)/DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology/Dongfanghong Satellite Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology/Dongfanghong Satellite Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology/Dongfanghong Satellite Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)/DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)/DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology/Dongfanghong Satellite Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Space Flight Technology/Dongfanghong Satellite Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "Shanghai Academy of Space Flight Technology/Dongfanghong Satellite Co.",
     "country": "China",
     "satellites": null
@@ -1260,77 +390,12 @@
     "satellites": null
   },
   {
-    "name": "Harbin Institute of Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "CAST/DFH Satellite Co. Ltd./HIT",
     "country": "China",
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Engineering Center for Microsatellites",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Engineering Center for Microsatellites",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Aerospace Science and Technology Corp. (CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Aerospace Science and Technology Corp. (CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Aerospace Science and Technology Corp. (CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Aerospace Science and Technology Corp. (CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "Unknown",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Engineering Center for Microsatellites",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
     "country": "China",
     "satellites": null
   },
@@ -1345,67 +410,12 @@
     "satellites": null
   },
   {
-    "name": "DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "China Academy of Launch Vehicle Technology (CASIC)",
     "country": "China",
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "National University of Defense Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "National University of Defense Technology",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "Nanjing University of Aeronautics and Astronautics/Shanghai Engineering Center for Microsatellites",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Nanjing University of Aeronautics and Astronautics/Shanghai Engineering Center for Microsatellites",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Spacety Aerospace Co.",
     "country": "China",
     "satellites": null
   },
@@ -1420,77 +430,12 @@
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "Shanghai Academy of Spaceflight Technology",
     "country": "China",
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "Shanghai Micro Satellite Engineering Center",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Spacety Aerospace Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Aerospace Science and Technology Corp. (CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "DFH Satellite Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "DFH Satellite Co. Ltd./CAMSAT",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "DFH Satellite Co. Ltd./CAMSAT",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "DFH Satellite Co. Ltd./CAMSAT",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "DFH Satellite Co. Ltd./CAMSAT",
     "country": "China",
     "satellites": null
   },
@@ -1510,182 +455,12 @@
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Satellite Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Satellite Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Satellite Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Satellite Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Satellite Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Satellite Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Satellite Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Satellite Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Satellite Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "China Academy of Space Tecnology (CAST)",
     "country": "China",
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "CAST/Changchun Light Technology Institute",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "CAST/Changchun Light Technology Institute",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
     "country": "China",
     "satellites": null
   },
@@ -1695,66 +470,6 @@
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chinese  Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Satellite Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Satellite Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Chinese  Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "Chinese  Academy of Space Technology (CAST)",
     "country": "China",
     "satellites": null
@@ -1765,97 +480,12 @@
     "satellites": null
   },
   {
-    "name": "Chinese Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "Shanghai Academy of Spaceflight Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Spaceflight Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Spaceflight Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Spaceflight Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Spaceflight Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Spaceflight Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Shanghai Academy of Spaceflight Technology (SAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
     "country": "China",
     "satellites": null
   },
   {
     "name": "Zhejiang University",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Zhejiang University",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Zhejiang University",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Zhejiang University",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Aerospace Science and Technology Corp. (CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
     "country": "China",
     "satellites": null
   },
@@ -1865,88 +495,8 @@
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Aerospace Science and Technology Corp. (CASC)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Zhuhai Orbita Aerospace Science and Technology Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Zhuhai Orbita Aerospace Science and Technology Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Zhuhai Orbita Aerospace Science and Technology Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Zhuhai Orbita Aerospace Science and Technology Co.",
-    "country": "China",
-    "satellites": null
-  },
-  {
     "name": "Zhuhai Orbita Control Engineering Co. Ltd.",
     "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Zhuhai Orbita Control Engineering Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "Zhuhai Orbita Control Engineering Co. Ltd.",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "China/Brazil",
     "satellites": null
   },
   {
@@ -1995,33 +545,8 @@
     "satellites": null
   },
   {
-    "name": "GomSpace",
-    "country": "Denmark",
-    "satellites": null
-  },
-  {
-    "name": "GomSpace",
-    "country": "Denmark",
-    "satellites": null
-  },
-  {
     "name": "RKK Energia",
     "country": "Egypt",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Egypt",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "ESA",
     "satellites": null
   },
   {
@@ -2035,137 +560,12 @@
     "satellites": null
   },
   {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System GmbH, SSTL",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
     "name": "Astrium/Thales Alenia Space",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Astrium/Thales Alenia Space",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
     "country": "ESA",
     "satellites": null
   },
   {
     "name": "CNES",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Verhaert Design and Development NV (leading a European consortium)",
     "country": "ESA",
     "satellites": null
   },
@@ -2185,72 +585,7 @@
     "satellites": null
   },
   {
-    "name": "Dornier Systems (Astrium) and 35 subcontractors",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Dornier Systems (Astrium) and 35 subcontractors",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
     "name": "Thales Alenia Space Italia",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
-    "country": "ESA",
-    "satellites": null
-  },
-  {
-    "name": "Dornier Systems (Astrium) and 35 subcontractors",
     "country": "ESA",
     "satellites": null
   },
@@ -2280,11 +615,6 @@
     "satellites": null
   },
   {
-    "name": "ICEYE Ltd.",
-    "country": "Finland",
-    "satellites": null
-  },
-  {
     "name": "Reaktor Space Labs",
     "country": "Finland",
     "satellites": null
@@ -2300,32 +630,7 @@
     "satellites": null
   },
   {
-    "name": "Astrium/Thales Alenia Space",
-    "country": "France",
-    "satellites": null
-  },
-  {
-    "name": "Astrium/Thales Alenia Space",
-    "country": "France",
-    "satellites": null
-  },
-  {
-    "name": "Astrium/Thales Alenia Space",
-    "country": "France",
-    "satellites": null
-  },
-  {
-    "name": "Astrium/Thales Alenia Space",
-    "country": "France",
-    "satellites": null
-  },
-  {
     "name": "LESIA",
-    "country": "France",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
     "country": "France",
     "satellites": null
   },
@@ -2340,68 +645,13 @@
     "satellites": null
   },
   {
-    "name": "EADS Astrium",
-    "country": "France",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "France",
-    "satellites": null
-  },
-  {
     "name": "Alcatel Alenia Space",
     "country": "France",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Alenia Space",
-    "country": "France",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "France/Belgium/Sweden",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "France/Belgium/Sweden",
     "satellites": null
   },
   {
     "name": "Israel Aerospace Industries (IAI)",
     "country": "France/Israel",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "France/Italy",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
-    "country": "France/Italy",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "France/Italy",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "France/Italy/Belgium/Spain/Greece",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "France/Italy/Belgium/Spain/Greece",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Alenia Space",
-    "country": "France/USA",
     "satellites": null
   },
   {
@@ -2425,37 +675,12 @@
     "satellites": null
   },
   {
-    "name": "German Aerospace Center (DLR)",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
     "name": "FH Aachen",
     "country": "Germany",
     "satellites": null
   },
   {
-    "name": "Thales Alenia Space",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
     "name": "Institute of Aeronautics and Astronautics, Technical University of Berlin",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "German Orbital Systems",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "German Aerospace Center (DLR)",
     "country": "Germany",
     "satellites": null
   },
@@ -2475,82 +700,12 @@
     "satellites": null
   },
   {
-    "name": "Surrey Satellite Technology, Ltd.",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology, Ltd.",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology, Ltd.",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology, Ltd.",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
     "name": "OHB System-AG",
     "country": "Germany",
     "satellites": null
   },
   {
     "name": "OHB-System AG",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System AG",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System AG",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "OHB-System AG",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Technical University Berlin",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Technical University Berlin",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Technical University Berlin",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Technical University Berlin",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Technical University Berlin",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
     "country": "Germany",
     "satellites": null
   },
@@ -2565,63 +720,8 @@
     "satellites": null
   },
   {
-    "name": "University of Würzburg",
-    "country": "Germany",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
-    "country": "Greece",
-    "satellites": null
-  },
-  {
     "name": "Lockheed Martin Missiles & Space",
     "country": "Greece",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Greece/United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
     "satellites": null
   },
   {
@@ -2635,182 +735,17 @@
     "satellites": null
   },
   {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
     "name": "ISRO Satellite Center",
     "country": "India",
     "satellites": null
   },
   {
     "name": "IRSO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "IRSO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "IRSO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
     "country": "India",
     "satellites": null
   },
   {
     "name": "Indian Institute of Technology Kanpur",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "ISRO Satellite Center",
     "country": "India",
     "satellites": null
   },
@@ -2825,32 +760,7 @@
     "satellites": null
   },
   {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
     "name": "Israel Aircraft Industries (IAI)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
     "country": "India",
     "satellites": null
   },
@@ -2865,67 +775,7 @@
     "satellites": null
   },
   {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India/Canada",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India/France",
-    "satellites": null
-  },
-  {
-    "name": "Indian Space Research Organization (ISRO)",
-    "country": "India/France",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Indonesia",
-    "satellites": null
-  },
-  {
     "name": "Indonesian National Institute of Aeronautics and Space",
-    "country": "Indonesia",
-    "satellites": null
-  },
-  {
-    "name": "Indonesian National Institute of Aeronautics and Space",
-    "country": "Indonesia",
-    "satellites": null
-  },
-  {
-    "name": "Technical University Berlin",
-    "country": "Indonesia",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Indonesia",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Indonesia",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Indonesia",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Indonesia",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
     "country": "Indonesia",
     "satellites": null
   },
@@ -2940,16 +790,6 @@
     "satellites": null
   },
   {
-    "name": "Israel Aircraft Industries (IAI)",
-    "country": "Israel",
-    "satellites": null
-  },
-  {
-    "name": "Israel Aircraft Industries (IAI)",
-    "country": "Israel",
-    "satellites": null
-  },
-  {
     "name": "Israel Aircraft Industries (IAI)/Ben Gurion University",
     "country": "Israel",
     "satellites": null
@@ -2960,58 +800,8 @@
     "satellites": null
   },
   {
-    "name": "Israel Aircraft Industries (IAI)",
-    "country": "Israel",
-    "satellites": null
-  },
-  {
-    "name": "Herzliya Science Center (HSC)",
-    "country": "Israel",
-    "satellites": null
-  },
-  {
-    "name": "Israel Aerospace Industries (IAI)",
-    "country": "Israel",
-    "satellites": null
-  },
-  {
-    "name": "Israel Aerospace Industries (IAI)",
-    "country": "Israel",
-    "satellites": null
-  },
-  {
     "name": "Israel Aircraft Industries (IAI), Missiles and Space Group",
     "country": "Israel",
-    "satellites": null
-  },
-  {
-    "name": "Israel Aerospace Industries (IAI)",
-    "country": "Israel",
-    "satellites": null
-  },
-  {
-    "name": "Israel Aerospace Industries (IAI)",
-    "country": "Israel",
-    "satellites": null
-  },
-  {
-    "name": "Israel Aerospace Industries (IAI)",
-    "country": "Israel",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Italy",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Italy",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Italy",
     "satellites": null
   },
   {
@@ -3030,22 +820,7 @@
     "satellites": null
   },
   {
-    "name": "Israel Aerospace Industries (IAI)",
-    "country": "Italy",
-    "satellites": null
-  },
-  {
-    "name": "OHB Italia",
-    "country": "Italy",
-    "satellites": null
-  },
-  {
     "name": "Alenia Spazio",
-    "country": "Italy",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space Italia",
     "country": "Italy",
     "satellites": null
   },
@@ -3070,42 +845,12 @@
     "satellites": null
   },
   {
-    "name": "NEC Corporation",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
     "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
     "country": "Japan",
     "satellites": null
   },
   {
     "name": "Canon Electronics Space Technology Laboratory",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Nagoya University and Daido University",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Nagoya University and Daido University",
     "country": "Japan",
     "satellites": null
   },
@@ -3130,27 +875,7 @@
     "satellites": null
   },
   {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
     "name": "Japan Aerospace Exploration Agency (JAXA)",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Japan Aerospace Exploration Agency (JAXA)",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
     "country": "Japan",
     "satellites": null
   },
@@ -3160,142 +885,12 @@
     "satellites": null
   },
   {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "NEC Corporation",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
     "name": "University of Tokyo",
     "country": "Japan",
     "satellites": null
   },
   {
-    "name": "University of Tokyo",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "University of Tokyo",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Kyushu Institute of Technology (KIT)",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
     "name": "Mitsubishi/Toshiba",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi/Toshiba",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi/Toshiba",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
     "country": "Japan",
     "satellites": null
   },
@@ -3335,31 +930,6 @@
     "satellites": null
   },
   {
-    "name": "Japan Aerospace Exploration Agency (JAXA)",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Japan Aerospace Exploration Agency (JAXA)",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Japan Aerospace Exploration Agency (JAXA)",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Japan Aerospace Exploration Agency (JAXA)",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Axelspace",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
     "name": "Institute of Space and Astronautical Science (ISAS)",
     "country": "Japan",
     "satellites": null
@@ -3375,17 +945,7 @@
     "satellites": null
   },
   {
-    "name": "Japan Aerospace Exploration Agency (JAXA)",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
     "name": "Nihon University",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Japan Aerospace Exploration Agency (JAXA)",
     "country": "Japan",
     "satellites": null
   },
@@ -3400,27 +960,7 @@
     "satellites": null
   },
   {
-    "name": "Nihon University",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
     "name": "Kagawa University",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Kyushu Technical University",
     "country": "Japan",
     "satellites": null
   },
@@ -3436,16 +976,6 @@
   },
   {
     "name": "Wakayama University and other Japanese universities",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Axelspace",
-    "country": "Japan",
-    "satellites": null
-  },
-  {
-    "name": "Axelspace",
     "country": "Japan",
     "satellites": null
   },
@@ -3470,33 +1000,8 @@
     "satellites": null
   },
   {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "Kazakhstan",
-    "satellites": null
-  },
-  {
     "name": "Khrunichev",
     "country": "Kazakhstan",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Kazakhstan",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "Kazakhstan",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "Kazakhstan",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "Laos",
     "satellites": null
   },
   {
@@ -3515,213 +1020,13 @@
     "satellites": null
   },
   {
-    "name": "Hughes Space and Communications Co.",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Hughes Space and Communications Co.",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Hughes Space and Communications Co.",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Hughes Space and Communications Co.",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Hughes Space and Communications Co.",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
     "name": "Orbital ATK",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Luxembourg",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
     "country": "Luxembourg",
     "satellites": null
   },
   {
     "name": "ATSB",
     "country": "Malaysia",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Malaysia",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Malaysia",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defence and Space",
-    "country": "Malaysia",
-    "satellites": null
-  },
-  {
-    "name": "Kyushu Institute of Technology (KIT)",
-    "country": "Malaysia",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Mexico",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Mexico",
-    "satellites": null
-  },
-  {
-    "name": "Orbital ATK",
-    "country": "Mexico",
-    "satellites": null
-  },
-  {
-    "name": "Kyushu Institute of Technology (KIT)",
-    "country": "Mongolia",
-    "satellites": null
-  },
-  {
-    "name": "Thales/Alenia Space and Airbus Defense and Space",
-    "country": "Morocco",
     "satellites": null
   },
   {
@@ -3735,77 +1040,12 @@
     "satellites": null
   },
   {
-    "name": "Space Systems/Loral",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
     "name": "Lockheed Martin Astro Space",
     "country": "Multinational",
     "satellites": null
   },
   {
-    "name": "EADS Astrium",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Astrium/Thales Alenia Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
     "name": "Lockheed Martin/Spar Aerospace",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Space Research Center, Polish Academy of Sciences",
     "country": "Multinational",
     "satellites": null
   },
@@ -3820,147 +1060,12 @@
     "satellites": null
   },
   {
-    "name": "Thales Alenia Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
     "name": "Boeing Defense and Space",
     "country": "Multinational",
     "satellites": null
   },
   {
-    "name": "Space Systems/Loral",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Alenia Spazio",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Alenia Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Space Industries",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Space Industries",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Space Industries",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Space Industries",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Alenia Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
     "name": "EADS Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
     "country": "Multinational",
     "satellites": null
   },
@@ -3980,67 +1085,7 @@
     "satellites": null
   },
   {
-    "name": "Thales Alenia Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Space Industries",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Alenia Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defence and Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
     "name": "Lavochkin",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Swales Aerospace",
-    "country": "Multinational",
-    "satellites": null
-  },
-  {
-    "name": "Swales Aerospace",
     "country": "Multinational",
     "satellites": null
   },
@@ -4065,76 +1110,11 @@
     "satellites": null
   },
   {
-    "name": "Hiber Global",
-    "country": "Netherlands",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Space Industries",
-    "country": "Netherlands",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Netherlands",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Netherlands",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Netherlands",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Netherlands",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Netherlands",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Netherlands",
-    "satellites": null
-  },
-  {
     "name": "Netherlands Organization for Applied Scientific Research (NTO) consortium",
     "country": "Netherlands",
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "Nigeria",
-    "satellites": null
-  },
-  {
-    "name": "Kyushu Institute of Technology (KIT)",
-    "country": "Nigeria",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "Nigeria",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "Nigeria",
-    "satellites": null
-  },
-  {
-    "name": "Kongsberg Seatex AS/University of Toronto Institute for Aerospace Studies",
-    "country": "Norway",
-    "satellites": null
-  },
-  {
     "name": "Kongsberg Seatex AS/University of Toronto Institute for Aerospace Studies",
     "country": "Norway",
     "satellites": null
@@ -4145,48 +1125,8 @@
     "satellites": null
   },
   {
-    "name": "Norwegian Space Center",
-    "country": "Norway",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "Norway",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Norway",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Norway",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Norway",
-    "satellites": null
-  },
-  {
-    "name": "China Aerospace Science and Technology Corp. (CASC)",
-    "country": "Pakistan",
-    "satellites": null
-  },
-  {
     "name": "CAST/DFH Satellite Co. Ltd.",
     "country": "Pakistan",
-    "satellites": null
-  },
-  {
-    "name": "CAST/DFH Satellite Co. Ltd.",
-    "country": "Pakistan",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Peru",
     "satellites": null
   },
   {
@@ -4195,18 +1135,8 @@
     "satellites": null
   },
   {
-    "name": "Kyushu Institute of Technology (KIT)",
-    "country": "Philippines",
-    "satellites": null
-  },
-  {
     "name": "Warsaw University of Technology",
     "country": "Poland",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Qatar",
     "satellites": null
   },
   {
@@ -4235,32 +1165,7 @@
     "satellites": null
   },
   {
-    "name": "Progress Rocket and Space Center",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
     "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO Lavochkin",
     "country": "Russia",
     "satellites": null
   },
@@ -4275,41 +1180,6 @@
     "satellites": null
   },
   {
-    "name": "RKK Energia",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "RKK Energia",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Lavochkin",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Lavochkin",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Unknown",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO-PM/Alcatel",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
     "name": "NPO-PM/Alcatel",
     "country": "Russia",
     "satellites": null
@@ -4320,252 +1190,7 @@
     "satellites": null
   },
   {
-    "name": "NPO-PM/Thales Alenia Space",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
     "name": "OAO-ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO-ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO-ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
     "country": "Russia",
     "satellites": null
   },
@@ -4580,42 +1205,7 @@
     "satellites": null
   },
   {
-    "name": "Roscosmos",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Roscosmos",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Roscosmos",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Roscosmos",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
     "name": "NPO Mashinostroyeniya",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "TsSKB-Progress Samara Space Center and KB Arsenal",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "TsSKB-Progress Samara Space Center and KB Arsenal",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "TsSKB-Progress Samara Space Center and KB Arsenal",
     "country": "Russia",
     "satellites": null
   },
@@ -4640,37 +1230,12 @@
     "satellites": null
   },
   {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
     "name": "PO Polyot",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "PO Polyot",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
     "country": "Russia",
     "satellites": null
   },
   {
     "name": "VNIIEM",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Roscosmos",
     "country": "Russia",
     "satellites": null
   },
@@ -4685,22 +1250,7 @@
     "satellites": null
   },
   {
-    "name": "NPO-PM",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
     "name": "Information Satellite Systems (formerly NPO-PM)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "TsSKB Progress",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "TsSKB Progress",
     "country": "Russia",
     "satellites": null
   },
@@ -4715,147 +1265,12 @@
     "satellites": null
   },
   {
-    "name": "Applied Mechanics (NPO)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO Resetneva",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO Lavochkin",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
     "name": "TsSKB Progress (State Research & Production Space Rocket Center)",
     "country": "Russia",
     "satellites": null
   },
   {
-    "name": "TsSKB Progress (State Research & Production Space Rocket Center)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "TsSKB Progress (State Research & Production Space Rocket Center)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO-PM",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
     "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAS ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAS ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAS ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAS ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAS ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAS ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAS ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "OAS ISS",
     "country": "Russia",
     "satellites": null
   },
@@ -4875,52 +1290,7 @@
     "satellites": null
   },
   {
-    "name": "SPUTNIX Ltd. Sirius Education Center",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
     "name": "NPO/PM - Scientific Research Institute for Precision Instruments (NII-TP)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO/PM - Scientific Research Institute for Precision Instruments (NII-TP)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO/PM - Scientific Research Institute for Precision Instruments (NII-TP)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO/PM - Scientific Research Institute for Precision Instruments (NII-TP)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO/PM - Scientific Research Institute for Precision Instruments (NII-TP)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO/PM - Scientific Research Institute for Precision Instruments (NII-TP)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO/PM - Scientific Research Institute for Precision Instruments (NII-TP)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO/PM - Scientific Research Institute for Precision Instruments (NII-TP)",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "Southwestern State University",
     "country": "Russia",
     "satellites": null
   },
@@ -4940,73 +1310,13 @@
     "satellites": null
   },
   {
-    "name": "OAO Resetneva",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "ISS Reshetnev",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
     "name": "Thales",
     "country": "Russia",
     "satellites": null
   },
   {
-    "name": "OAO ISS",
-    "country": "Russia",
-    "satellites": null
-  },
-  {
-    "name": "NPO-PM/Alcatel",
-    "country": "Russia/Multinational",
-    "satellites": null
-  },
-  {
     "name": "Dauria Aerospace/Canopus Systems",
     "country": "Russia/USA",
-    "satellites": null
-  },
-  {
-    "name": "Dauria Aerospace/Canopus Systems",
-    "country": "Russia/USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Research Institute, King Abdulaziz City for Science and Technology",
-    "country": "Saudi Arabia",
-    "satellites": null
-  },
-  {
-    "name": "Space Research Institute, King Abdulaziz City for Science and Technology",
-    "country": "Saudi Arabia",
-    "satellites": null
-  },
-  {
-    "name": "Space Research Institute, King Abdulaziz City for Science and Technology",
-    "country": "Saudi Arabia",
-    "satellites": null
-  },
-  {
-    "name": "Space Research Institute, King Abdulaziz City for Science and Technology",
-    "country": "Saudi Arabia",
-    "satellites": null
-  },
-  {
-    "name": "Space Research Institute, King Abdulaziz City for Science and Technology",
-    "country": "Saudi Arabia",
-    "satellites": null
-  },
-  {
-    "name": "Space Research Institute, King Abdulaziz City for Science and Technology",
-    "country": "Saudi Arabia",
-    "satellites": null
-  },
-  {
-    "name": "Space Research Institute, King Abdulaziz City for Science and Technology",
-    "country": "Saudi Arabia",
     "satellites": null
   },
   {
@@ -5030,22 +1340,7 @@
     "satellites": null
   },
   {
-    "name": "King Abdulaziz City for Science and Technology",
-    "country": "Saudi Arabia",
-    "satellites": null
-  },
-  {
-    "name": "King Abdulaziz City for Science and Technology",
-    "country": "Saudi Arabia",
-    "satellites": null
-  },
-  {
     "name": "Microspace Rapid Pvt Ltd.",
-    "country": "Singapore",
-    "satellites": null
-  },
-  {
-    "name": "National University of Singapore",
     "country": "Singapore",
     "satellites": null
   },
@@ -5065,33 +1360,13 @@
     "satellites": null
   },
   {
-    "name": "Nanyang Technological University",
-    "country": "Singapore",
-    "satellites": null
-  },
-  {
-    "name": "Nanyang Technological University",
-    "country": "Singapore",
-    "satellites": null
-  },
-  {
     "name": "Centre for Research in Satellite Technology (CREST)",
     "country": "Singapore",
     "satellites": null
   },
   {
-    "name": "Mitsubishi Electric",
-    "country": "Singapore/Taiwan",
-    "satellites": null
-  },
-  {
     "name": "Slovak Organization for Space Activities, University of Zilina",
     "country": "Slovakia",
-    "satellites": null
-  },
-  {
-    "name": "NPO Mashinostroyeniya",
-    "country": "South Africa",
     "satellites": null
   },
   {
@@ -5101,11 +1376,6 @@
   },
   {
     "name": "Stellenbosch  University",
-    "country": "South Africa",
-    "satellites": null
-  },
-  {
-    "name": "French South African Institute of Technology/Cape Peninsula University of Technology",
     "country": "South Africa",
     "satellites": null
   },
@@ -5130,47 +1400,7 @@
     "satellites": null
   },
   {
-    "name": "Korea Aerospace Research Institute (KARI)/ EADS Astrium",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "Korea Aerospace Research Institute (KARI)",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "Korea Aerospace Research Institute (KARI)",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
     "name": "SaTReC (Satellite Technology Research Center) of KAIST",
-    "country": "South Korea",
-    "satellites": null
-  },
-  {
-    "name": "Seoul National University",
     "country": "South Korea",
     "satellites": null
   },
@@ -5200,52 +1430,7 @@
     "satellites": null
   },
   {
-    "name": "EADS Astrium",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
     "name": "Satrec Initiative",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Space Industries",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "OHB System-AG",
     "country": "Spain",
     "satellites": null
   },
@@ -5260,37 +1445,12 @@
     "satellites": null
   },
   {
-    "name": "Instituto Nacional de Técnia Aeroespacial (INTA)",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
     "name": "Instituto Nacional de Tecnica Aerospacial (INTA)",
     "country": "Spain",
     "satellites": null
   },
   {
-    "name": "Airbus Defense and Space",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Spain",
-    "satellites": null
-  },
-  {
     "name": "Swedish Space Corporation/Canadian Space Agency/National Technology Agency of Finland/Centre National d'Etudes Spatiales",
-    "country": "Sweden",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
     "country": "Sweden",
     "satellites": null
   },
@@ -5320,62 +1480,7 @@
     "satellites": null
   },
   {
-    "name": "Orbital Sciences Corp.",
-    "country": "Taiwan/USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Taiwan/USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Taiwan/USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Taiwan/USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Taiwan/USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "Thailand",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Alenia Space",
-    "country": "Thailand",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "Thailand",
-    "satellites": null
-  },
-  {
-    "name": "Orbital ATK",
-    "country": "Thailand",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "Thailand",
-    "satellites": null
-  },
-  {
     "name": "Istanbul Technical University/Turkish Air Force Academy",
-    "country": "Turkey",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
     "country": "Turkey",
     "satellites": null
   },
@@ -5395,38 +1500,8 @@
     "satellites": null
   },
   {
-    "name": "Thales Alenia Space",
-    "country": "Turkey",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Turkey",
-    "satellites": null
-  },
-  {
-    "name": "Mitsubishi Electric",
-    "country": "Turkey",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "Turkmenistan/Monaco",
-    "satellites": null
-  },
-  {
     "name": "National Technical University",
     "country": "Ukraine",
-    "satellites": null
-  },
-  {
-    "name": "Orbital ATK",
-    "country": "United Arab Emirates",
-    "satellites": null
-  },
-  {
-    "name": "Satrec Initiative",
-    "country": "United Arab Emirates",
     "satellites": null
   },
   {
@@ -5437,131 +1512,6 @@
   {
     "name": "Mohammed bin Rashid Space Centre/American University of Sharjah",
     "country": "United Arab Emirates",
-    "satellites": null
-  },
-  {
-    "name": "Hughes Space and Communications Co.",
-    "country": "United Arab Emirates",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "United Arab Emirates",
-    "satellites": null
-  },
-  {
-    "name": "Astrium/Thales Alenia Space",
-    "country": "United Arab Emirates",
-    "satellites": null
-  },
-  {
-    "name": "Astrium/Thales Alenia Space",
-    "country": "United Arab Emirates",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "GomSpace ApS",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "GomSpace ApS",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "GomSpace ApS",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp.",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp.",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp.",
-    "country": "United Kingdom",
     "satellites": null
   },
   {
@@ -5580,157 +1530,7 @@
     "satellites": null
   },
   {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
     "name": "OneWeb Satellites",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "OneWeb Satellites",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "OneWeb Satellites",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "OneWeb Satellites",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "OneWeb Satellites",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "OneWeb Satellites",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Surrey Satellite Technology Ltd.",
     "country": "United Kingdom",
     "satellites": null
   },
@@ -5750,21 +1550,6 @@
     "satellites": null
   },
   {
-    "name": "Surrey Satellite Technology Ltd. (SSTL)",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Clyde Space",
-    "country": "United Kingdom",
-    "satellites": null
-  },
-  {
-    "name": "Astrium",
-    "country": "United Kingdom/ESA",
-    "satellites": null
-  },
-  {
     "name": "Facultad de Ingeniería de la Universidad de la República (FING), ANTEL",
     "country": "Uruguay",
     "satellites": null
@@ -5775,37 +1560,7 @@
     "satellites": null
   },
   {
-    "name": "TRW Space and Electronics",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "National Reconnaissance Laboratory (?)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory (?)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory (?)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory (?)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Space Systems",
     "country": "USA",
     "satellites": null
   },
@@ -5825,66 +1580,6 @@
     "satellites": null
   },
   {
-    "name": "Aerospace Corporation",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Aerospace Corporation",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Aerospace Corporation",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Aerospace Corporation",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Aerospace Corporation",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Aerospace Corporation",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Aerospace Corporation",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Aerospace Corporation",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Aerospace Corporation",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Aerospace Corporation",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Aerospace Corporation",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "NASA Glenn Research Center",
     "country": "USA",
     "satellites": null
@@ -5900,77 +1595,12 @@
     "satellites": null
   },
   {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Amsat-NA",
     "country": "USA",
     "satellites": null
   },
   {
     "name": "Planetary Resources",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Space Industries",
     "country": "USA",
     "satellites": null
   },
@@ -6000,37 +1630,12 @@
     "satellites": null
   },
   {
-    "name": "Spaceflight Industries",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spaceflight Industries",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "SpaceQuest",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Capella Space",
     "country": "USA",
     "satellites": null
   },
   {
     "name": "Johns Hopkins Applied Physics Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Johns Hopkins Applied Physics Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Unknown",
     "country": "USA",
     "satellites": null
   },
@@ -6045,16 +1650,6 @@
     "satellites": null
   },
   {
-    "name": "Surrey Satellite Technology Ltd.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "TRW Space and Electronics",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "University of Florida",
     "country": "USA",
     "satellites": null
@@ -6065,42 +1660,7 @@
     "satellites": null
   },
   {
-    "name": "Tyvak Nanosatellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Tyvak Nanosatellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Tyvak Nanosatellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Tyvak Nanosatellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Tyvak Nanosatellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Tyvak Nanosatellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Space Sciences Laboratory (SSL) of the University of California Berkeley;  Kyung Hee University (KHU), Imperial College London",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
     "country": "USA",
     "satellites": null
   },
@@ -6155,52 +1715,12 @@
     "satellites": null
   },
   {
-    "name": "Southwest Research Institute",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Southwest Research Institute",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Southwest Research Institute",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Southwest Research Institute",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Southwest Research Institute",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Southwest Research Institute",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Southwest Research Institute",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "California Polytechnic University",
     "country": "USA",
     "satellites": null
   },
   {
     "name": "North Idaho STEM Charter Academy",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "NASA Goddard Space Flight Center",
     "country": "USA",
     "satellites": null
   },
@@ -6225,1102 +1745,7 @@
     "satellites": null
   },
   {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Airbus Defense and Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Hughes Space and Communications Co.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Planet Labs, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "TRW and Aerojet Electronics Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "TRW and Aerojet Electronics Systems",
     "country": "USA",
     "satellites": null
   },
@@ -7335,92 +1760,7 @@
     "satellites": null
   },
   {
-    "name": "Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "National Aeronautics and Space Administration (NASA)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "University of California",
     "country": "USA",
     "satellites": null
   },
@@ -7450,11 +1790,6 @@
     "satellites": null
   },
   {
-    "name": "US Air Force Academy",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "University of Texas - Austin",
     "country": "USA",
     "satellites": null
@@ -7466,31 +1801,6 @@
   },
   {
     "name": "National Reconnaissance Office (NRO)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Office (NRO)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Office (NRO)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Office (NRO)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Office (NRO)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Montana State University",
     "country": "USA",
     "satellites": null
   },
@@ -7525,61 +1835,6 @@
     "satellites": null
   },
   {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "NearSpace Launch/Air Force Research Laboratory",
     "country": "USA",
     "satellites": null
@@ -7590,197 +1845,7 @@
     "satellites": null
   },
   {
-    "name": "Bigelow Aerospace",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "General Dynamics",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Space Systems/Loral/Alenia Aerospazio",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral/Alenia Aerospazio",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral/Alenia Aerospazio",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral/Alenia Aerospazio",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral/Alenia Aerospazio",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral/Alenia Aerospazio",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral/Alenia Aerospazio",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
     "country": "USA",
     "satellites": null
   },
@@ -7790,47 +1855,7 @@
     "satellites": null
   },
   {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Blue Canyon Technologies",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "GomSpace/Unitas SFL",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "GomSpace/Unitas SFL",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "GomSpace/Unitas SFL",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spectrum Astro, Inc.",
     "country": "USA",
     "satellites": null
   },
@@ -7850,597 +1875,7 @@
     "satellites": null
   },
   {
-    "name": "National Reconnaissance Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Alcatel Space Industries",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Space & Intelligence Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Hughes Space and Communications Co.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Hughes Space and Communications Co.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Motorola Satellite Communications Group",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Motorola Satellite Communications Group",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Motorola Satellite Communications Group",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Motorola Satellite Communications Group",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Motorola Satellite Communications Group",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space/Orbital ATK",
     "country": "USA",
     "satellites": null
   },
@@ -8470,417 +1905,17 @@
     "satellites": null
   },
   {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Astronautics",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Astronautics",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Lockheed Martin Astronautics",
     "country": "USA",
     "satellites": null
   },
   {
     "name": "Astro Digital",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Astro Digital",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
     "country": "USA",
     "satellites": null
   },
   {
     "name": "NanoSatisfi Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Spire Global",
     "country": "USA",
     "satellites": null
   },
@@ -8900,42 +1935,7 @@
     "satellites": null
   },
   {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Unknown",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "MIT/LL-UM  Amherst",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
     "country": "USA",
     "satellites": null
   },
@@ -8950,242 +1950,12 @@
     "satellites": null
   },
   {
-    "name": "NASA/Goddard Space Flight Center",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "NASA/Goddard Space Flight Center",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "NASA/Goddard Space Flight Center",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "NASA/Goddard Space Flight Center",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Ball Aerospace/TRW/Raytheon",
     "country": "USA",
     "satellites": null
   },
   {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital ATK",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Tyvak Nanosatellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "New Mexico Institute of Mining and Technology",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Space Systems",
     "country": "USA",
     "satellites": null
   },
@@ -9200,202 +1970,12 @@
     "satellites": null
   },
   {
-    "name": "Ball Aerospace",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "NASA/Ames Research Center",
     "country": "USA",
     "satellites": null
   },
   {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Boeing Corp./Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp./Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp./Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp./Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp./Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp./Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp./Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp./Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp./Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp./Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp./Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp./Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Firmamentum",
     "country": "USA",
     "satellites": null
   },
@@ -9410,21 +1990,6 @@
     "satellites": null
   },
   {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "US Naval Academy",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Astro Digital",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "US Naval Academy",
     "country": "USA",
     "satellites": null
@@ -9435,32 +2000,7 @@
     "satellites": null
   },
   {
-    "name": "Raytheon",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Los Alamos National Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Los Alamos National Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Tyvak Nanosatellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Tyvak Nanosatellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
     "country": "USA",
     "satellites": null
   },
@@ -9480,32 +2020,7 @@
     "satellites": null
   },
   {
-    "name": "Tyvak Nanosatellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Georgia Institute of Technology",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Georgia Institute of Technology",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Blue Canyon Technologies",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "US Naval Academy",
     "country": "USA",
     "satellites": null
   },
@@ -9515,82 +2030,7 @@
     "satellites": null
   },
   {
-    "name": "Lockheed Martin Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Space Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Boeing/Ball Aerospace",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory (NRL)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory (NRL)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory (NRL)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory (NRL)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory (NRL)",
     "country": "USA",
     "satellites": null
   },
@@ -9601,41 +2041,6 @@
   },
   {
     "name": "Goddard Space Flight Center",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Hughes Space and Communications Co.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory",
     "country": "USA",
     "satellites": null
   },
@@ -9655,11 +2060,6 @@
     "satellites": null
   },
   {
-    "name": "NASA Jet Propulsion Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "NASA Langley Research Center",
     "country": "USA",
     "satellites": null
@@ -9670,122 +2070,7 @@
     "satellites": null
   },
   {
-    "name": "SRI International",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Skybox Imaging",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Skybox Imaging",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "National Reconnaissance Laboratory",
     "country": "USA",
     "satellites": null
   },
@@ -9800,31 +2085,6 @@
     "satellites": null
   },
   {
-    "name": "Miltec",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Miltec",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Miltec",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "US Army Space and Missile Defense Command",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "US Army Space and Missile Defense Command",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "US Army Space and Missile Defense Command",
     "country": "USA",
     "satellites": null
@@ -9835,62 +2095,7 @@
     "satellites": null
   },
   {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Swarm Technologies",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Swarm Technologies",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Swarm Technologies",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Swarm Technologies",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Swarm Technologies",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Swarm Technologies",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Swarm Technologies",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "SpaceX",
     "country": "USA",
     "satellites": null
   },
@@ -9905,22 +2110,7 @@
     "satellites": null
   },
   {
-    "name": "Ball Aerospace",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Sierra Nevada Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Northrop Grumman",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Northrop Grumman",
     "country": "USA",
     "satellites": null
   },
@@ -9940,57 +2130,7 @@
     "satellites": null
   },
   {
-    "name": "Air Force Research Laboratory (AFRL)",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "TRW Defense and Space Systems Group",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "TRW Defense and Space Systems Group",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "TRW Defense and Space Systems Group",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "TRW Defense and Space Systems Group",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
     "country": "USA",
     "satellites": null
   },
@@ -10001,11 +2141,6 @@
   },
   {
     "name": "Colorado State University, NASA Jet Propulsion Laboratory, Blue Canyon Technologies, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
     "country": "USA",
     "satellites": null
   },
@@ -10025,47 +2160,7 @@
     "satellites": null
   },
   {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Tyvak Nanosatellite Systems, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Tyvak Nanosatellite Systems, Inc.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
     "country": "USA",
     "satellites": null
   },
@@ -10080,128 +2175,8 @@
     "satellites": null
   },
   {
-    "name": "Johns Hopkins University Applied Physics Laboratory",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
     "name": "Boeing Integrated Defense Systems",
     "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Space Systems/Loral",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Ball Aerospace",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Ball Aerospace",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Ball Aerospace",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Missiles & Space",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Corp.",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA",
-    "satellites": null
-  },
-  {
-    "name": "SpaceQuest",
-    "country": "USA/Argentina",
-    "satellites": null
-  },
-  {
-    "name": "SpaceQuest",
-    "country": "USA/Argentina",
-    "satellites": null
-  },
-  {
-    "name": "SpaceQuest",
-    "country": "USA/Argentina",
-    "satellites": null
-  },
-  {
-    "name": "SpaceQuest",
-    "country": "USA/Argentina",
     "satellites": null
   },
   {
@@ -10210,53 +2185,8 @@
     "satellites": null
   },
   {
-    "name": "Hughes Space and Communications Co.",
-    "country": "USA/Canada",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin",
-    "country": "USA/Canada/Japan",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA/France",
-    "satellites": null
-  },
-  {
-    "name": "Thales Alenia Space",
-    "country": "USA/France",
-    "satellites": null
-  },
-  {
     "name": "NASA Jet Propulsion Laboratory/Airbus",
     "country": "USA/Germany",
-    "satellites": null
-  },
-  {
-    "name": "NASA Jet Propulsion Laboratory/Airbus",
-    "country": "USA/Germany",
-    "satellites": null
-  },
-  {
-    "name": "Boeing Satellite Systems",
-    "country": "USA/Japan",
-    "satellites": null
-  },
-  {
-    "name": "Japan Aerospace Exploration Agency (JAXA)",
-    "country": "USA/Japan",
-    "satellites": null
-  },
-  {
-    "name": "NASA/Goddard Space Flight Center",
-    "country": "USA/Japan",
-    "satellites": null
-  },
-  {
-    "name": "Orbital Sciences Corp.",
-    "country": "USA/Japan",
     "satellites": null
   },
   {
@@ -10275,37 +2205,7 @@
     "satellites": null
   },
   {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "Venezuela",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "Venezuela",
-    "satellites": null
-  },
-  {
-    "name": "China Academy of Space Technology (CAST)",
-    "country": "Venezuela",
-    "satellites": null
-  },
-  {
     "name": "Built by Vietnamese engineers studying in Japan.",
-    "country": "Vietnam",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Vietnam",
-    "satellites": null
-  },
-  {
-    "name": "Lockheed Martin Commercial Space Systems",
-    "country": "Vietnam",
-    "satellites": null
-  },
-  {
-    "name": "EADS Astrium",
     "country": "Vietnam",
     "satellites": null
   }
