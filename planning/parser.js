@@ -40,8 +40,8 @@ let satArray = data.map(object => {
 let countryArray = data.map(object => {
     let country = {
         name: object.country,
-        satellites: [null],
-        contractors: null,
+        satellites: [],
+        contractors: [],
     }
     return country;
 })
@@ -62,7 +62,7 @@ let contractorArray = data.map(object => {
     let contractor = {
         name: object.contractor,
         country: null,
-        satellites: [null]
+        satellites: []
     }
     return contractor;
 })
