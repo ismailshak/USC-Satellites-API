@@ -1,27 +1,34 @@
 [
   {
-    "name": "USA",
+    "name": "Argentina",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "India",
+    "name": "Australia",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "USA/Japan",
+    "name": "ESA",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "Finland",
+    "name": "Brazil",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Bulgaria",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
@@ -29,34 +36,6 @@
   },
   {
     "name": "Austria",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Indonesia",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "China",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Spain",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Germany",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
@@ -77,202 +56,6 @@
     "contractors": []
   },
   {
-    "name": "Multinational",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Japan",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Taiwan/USA",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Kazakhstan",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Morocco/Germany",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Brazil",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "ESA",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Russia",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "South Korea",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Singapore",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Belarus",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Sweden",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "United Arab Emirates",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "USA/France",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "France/USA",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Israel",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Thailand",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "India/France",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "USA/United Kingdom/Italy",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "United Kingdom",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Luxembourg",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "France/Italy",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "ESA/USA/Russia",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "China/Brazil",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Netherlands",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "ESA/USA",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "USA/Canada/Japan",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "France/Italy/Belgium/Spain/Greece",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
     "name": "USA/Canada",
     "satellites": [],
     "numberOfSatellites": 0,
@@ -280,91 +63,7 @@
     "contractors": []
   },
   {
-    "name": "Italy",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Mexico",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Australia",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Argentina",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "France",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Russia/Multinational",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Greece",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Turkey",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Malaysia",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "United Kingdom/ESA",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Egypt",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "USA/Japan/Brazil",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Denmark",
+    "name": "Chile",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
@@ -378,126 +77,21 @@
     "contractors": []
   },
   {
-    "name": "Uruguay",
+    "name": "Bolivia",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "USA/Argentina",
+    "name": "China",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "Switzerland",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Azerbaijan",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Bangladesh",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Costa Rica",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Bhutan",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Bulgaria",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "China/France",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "South Africa",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Philippines",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Qatar",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Colombia",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Taiwan",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "USA/Germany",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Greece/United Kingdom",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Czech Republic",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Jordan",
+    "name": "China/Brazil",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
@@ -505,34 +99,6 @@
   },
   {
     "name": "Laos",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Lithuania",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Mongolia",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Vietnam",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Morocco",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
@@ -553,7 +119,147 @@
     "contractors": []
   },
   {
-    "name": "Russia/USA",
+    "name": "Venezuela",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Belarus",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "China/France",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "China/Italy",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Costa Rica",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Czech Republic",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Colombia",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Denmark",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Spain",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "United Kingdom",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "USA",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Finland",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Egypt",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "France",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "France/Italy",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "France/USA",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Indonesia",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Kazakhstan",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Luxembourg",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Multinational",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Netherlands",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
@@ -567,91 +273,84 @@
     "contractors": []
   },
   {
-    "name": "Ukraine",
+    "name": "Russia",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "Poland",
+    "name": "Thailand",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "Belgium",
+    "name": "Turkey",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "India/Canada",
+    "name": "United Arab Emirates",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "Saudi Arabia",
+    "name": "USA/France",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "Iran",
+    "name": "Vietnam",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "Slovakia",
+    "name": "Greece",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "Japan/Singapore",
+    "name": "Bangladesh",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "France/Belgium/Sweden",
+    "name": "Germany",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "Chile",
+    "name": "Greece/United Kingdom",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "Singapore/Taiwan",
+    "name": "Italy",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "Iraq",
-    "satellites": [],
-    "numberOfSatellites": 0,
-    "numberOfContractors": 0,
-    "contractors": []
-  },
-  {
-    "name": "Bolivia",
+    "name": "South Korea",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
@@ -665,14 +364,63 @@
     "contractors": []
   },
   {
-    "name": "Venezuela",
+    "name": "France/Belgium/Sweden",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
     "contractors": []
   },
   {
-    "name": "Latvia",
+    "name": "France/Italy/Belgium/Spain/Greece",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "United Kingdom/ESA",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Morocco",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Malaysia",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "India",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "India/Canada",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "India/France",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "ESA/USA",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,
@@ -686,7 +434,259 @@
     "contractors": []
   },
   {
-    "name": "China/Italy",
+    "name": "Israel",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Iraq",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "ESA/USA/Russia",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Bhutan",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Japan",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Mongolia",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Philippines",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Qatar",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Singapore/Taiwan",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "USA/Japan",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Japan/Singapore",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Jordan",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Latvia",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Lithuania",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Morocco/Germany",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Belgium",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Switzerland",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Poland",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Iran",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "South Africa",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Russia/Multinational",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Russia/USA",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Saudi Arabia",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Singapore",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Slovakia",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Sweden",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Taiwan",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Ukraine",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Uruguay",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Azerbaijan",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Mexico",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "Taiwan/USA",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "USA/Argentina",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "USA/Canada/Japan",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "USA/United Kingdom/Italy",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "USA/Germany",
+    "satellites": [],
+    "numberOfSatellites": 0,
+    "numberOfContractors": 0,
+    "contractors": []
+  },
+  {
+    "name": "USA/Japan/Brazil",
     "satellites": [],
     "numberOfSatellites": 0,
     "numberOfContractors": 0,

@@ -6,7 +6,7 @@ let satArray = data.map(object => {
     let sat = {
         name: object.name,
         UNRegistry: object['UN-Registry'],
-        country: object.country,
+        countryName: object.country,
         operator: object.operator,
         user: object.user,
         purpose: object.purpose,
@@ -24,7 +24,7 @@ let satArray = data.map(object => {
         power: object.power,
         dateOfLaunch: object['date-of-launch'],
         expectedLifetime: object['expected-lifetime'],
-        contractor: object.contractor,
+        contractorName: object.contractor,
         countryOfContractor: object['country-of-contractor'],
         launchSite: object['launch-site'],
         launchVehicle: object['launch-vehicle'],
