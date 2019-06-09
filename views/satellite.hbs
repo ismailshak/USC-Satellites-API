@@ -1,0 +1,85 @@
+{{#if multiple}}
+<div class="all-data">
+    {{#each array as |val key|}}
+    <div class="data-cell">
+        <a href='name/{{val.name}}'><span class="data">{{val.name}}<br><span class="data-id">{{val._id}}</span></span></a>
+    </div>
+    {{/each}}
+</div>
+{{else}}
+<div class="specific-data">
+    {{#if innerMultiple}}
+        {{#each array as |val key|}}
+        <div class="information-top">
+            <div class="header-container">
+                <span class="information-text"><span class="information-header">{{{val.name}}}</span></span>
+            </div>
+            <div class="information-left">
+                
+                <span class="information-text"><span class="information-key">id: </span>{{{val._id}}}</span>
+                <span class="information-text"><span class="information-key">Country: </span>{{{val.country}}}</span>
+                <span class="information-text"><span class="information-key">Contractor: </span>{{{val.contractor}}}</span>
+                <span class="information-text"><span class="information-key">User: </span>{{{val.user}}}</span>
+                <span class="information-text"><span class="information-key">Purpose: </span>{{{val.purpose}}}</span>
+                <span class="information-text"><span class="information-key">Detailed Purpose: </span>{{{val.detailedPurpose}}}</span>
+                <span class="information-text"><span class="information-key">Class of Orbit: </span>{{{val.classOfOrbit}}}</span>
+                <span class="information-text"><span class="information-key">Date of Launch (watts): </span>{{{val.dateOfLaunch}}}</span>
+                <span class="information-text"><span class="information-key">Expected Lifetime (yrs.): </span>{{{val.expectedLifetime}}}</span>
+                <span class="information-text"><span class="information-key">Launch Site: </span>{{{val.launchSite}}}</span>
+            
+            </div>
+            <div class="information-right">
+                <span class="information-text"><span class="information-key">Longitude of Geo (degrees): </span>{{{val.longitudeOfGeo}}}</span>
+                <span class="information-text"><span class="information-key">Inclination (degrees): </span>{{{val.eccentricity}}}</span>
+                <span class="information-text"><span class="information-key">Period (minutes): </span>{{{val.eccentricity}}}</span>
+                <span class="information-text"><span class="information-key">Launch Mass (kg.): </span>{{{val.launchMass}}}</span>
+                <span class="information-text"><span class="information-key">Power (watts): </span>{{{val.power}}}</span>
+                <span class="information-text"><span class="information-key">COSPAR Number: </span>{{{val.cosparNumber}}}</span>
+                <span class="information-text"><span class="information-key">NORAD Number: </span>{{{val.noradNumber}}}</span>
+                
+            </div>
+        </div>
+        <div class="information-bottom">
+                <span class="information-text"><span class="information-key">Comments: </span>{{{val.comments}}}</span>
+        </div>
+        
+    
+        {{/each}}
+</div>
+    {{else}}
+        <div class="information-top">
+            <div class="header-container">
+                <span class="information-text"><span class="information-header">{{{name.name}}}</span></span>
+            </div>
+            <div class="information-left">
+                
+                <span class="information-text"><span class="information-key">id: </span>{{{name._id}}}</span>
+                <span class="information-text"><span class="information-key">Country: </span>{{{name.country}}}</span>
+                <span class="information-text"><span class="information-key">Contractor: </span>{{{name.contractor}}}</span>
+                <span class="information-text"><span class="information-key">User: </span>{{{name.user}}}</span>
+                <span class="information-text"><span class="information-key">Purpose: </span>{{{name.purpose}}}</span>
+                <span class="information-text"><span class="information-key">Detailed Purpose: </span>{{{name.detailedPurpose}}}</span>
+                <span class="information-text"><span class="information-key">Class of Orbit: </span>{{{name.classOfOrbit}}}</span>
+                <span class="information-text"><span class="information-key">Date of Launch (watts): </span>{{{name.dateOfLaunch}}}</span>
+                <span class="information-text"><span class="information-key">Expected Lifetime (yrs.): </span>{{{name.expectedLifetime}}}</span>
+                <span class="information-text"><span class="information-key">Launch Site: </span>{{{name.launchSite}}}</span>
+            
+            </div>
+            <div class="information-right">
+                <span class="information-text"><span class="information-key">Longitude of Geo (degrees): </span>{{{name.longitudeOfGeo}}}</span>
+                <span class="information-text"><span class="information-key">Inclination (degrees): </span>{{{name.eccentricity}}}</span>
+                <span class="information-text"><span class="information-key">Period (minutes): </span>{{{name.eccentricity}}}</span>
+                <span class="information-text"><span class="information-key">Launch Mass (kg.): </span>{{{name.launchMass}}}</span>
+                <span class="information-text"><span class="information-key">Power (watts): </span>{{{name.power}}}</span>
+                <span class="information-text"><span class="information-key">COSPAR Number: </span>{{{name.cosparNumber}}}</span>
+                <span class="information-text"><span class="information-key">NORAD Number: </span>{{{name.noradNumber}}}</span>
+                
+            </div>
+        </div>
+        <div class="information-bottom">
+            <span class="information-text"><span class="information-key">Comments: </span>{{{name.comments}}}</span>
+        </div>
+</div>
+    {{/if}}
+    
+{{/if}}

@@ -1,0 +1,29 @@
+{{#if multiple}}
+<div class="all-data">
+    {{#each array as |val key|}}
+    <div class="data-cell">
+        <a href='name/{{val.name}}'><span class="data">{{val.name}}<br><span class="data-id">{{val._id}}</span></span></a>
+    </div>
+    {{/each}}
+</div>
+{{else}}
+<div class="specific-data">
+    {{!-- img --}}
+    <div class="information-top">
+        <div class="information-left">
+        <span class="information-text"><span class="information-header">{{{name.name}}}</span></span>
+    </div>
+    <div class="information-right"
+        <span class="information-text"><span class="information-key">id: </span>{{{name._id}}}</span>
+        <span class="information-text"><span class="information-key">Number of Satellites: </span>{{{name.numberOfSatellites}}}</span>
+        <span class="information-text"><span class="information-key">Number of Contractors: </span>{{{name.numberOfContractors}}}</span>
+        <span class="information-text"><span class="information-key">Contractors: </span>{{{name.contractors}}}</span>
+        <span class="information-text"><span class="information-key">Satellites: </span>{{{name.satellites}}}</span>
+
+    
+
+    </div>
+    </div>
+</div>
+
+{{/if}}
