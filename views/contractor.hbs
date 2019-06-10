@@ -11,10 +11,10 @@
     {{#if innerMultiple}}
         {{#each array as |val key|}}
             <div class="information-top">
-                <div class="information-left">
+                <div class="information-header">
                     <span class="information-text"><span class="information-header">{{{val.name}}}</span></span>
                 </div>
-                <div class="information-right"
+                <div class="information-left"
                     <span class="information-text"><span class="information-key">id: </span>{{{val._id}}}</span>
                     <span class="information-text"><span class="information-key">Country: </span>{{{val.country}}}</span>
                     <span class="information-text"><span class="information-key">Satellites: </span>{{{val.satellites}}}</span>
@@ -26,10 +26,10 @@
 
     {{!-- img --}}
         <div class="information-top">
-            <div class="information-left">
+            <div class="information-header">
                 <span class="information-text"><span class="information-header">{{{name.name}}}</span></span>
             </div>
-            <div class="information-right"
+            <div class="information-left"
                 <span class="information-text"><span class="information-key">id: </span>{{{name._id}}}</span>
                 <span class="information-text"><span class="information-key">Country: </span>{{{name.country}}}</span>
                 <span class="information-text"><span class="information-key">Satellites: </span>{{{name.satellites}}}</span>
