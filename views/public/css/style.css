@@ -42,7 +42,8 @@ body {
     border: 1px solid white;
     border-radius: 5px;
     display: flex;
-    flex-direction: column
+    flex-direction: column;
+    text-align: center;
 }
 
 a {
@@ -104,4 +105,20 @@ a {
 
 .header-container {
     display: block
+}
+
+@media all and (max-width: 480px) {
+    .header {
+        font-size: 2rem;
+    }
+
+    .search-form {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    .homepage-container {
+        margin: 0 1rem;
+    }
 }
