@@ -68,7 +68,6 @@ a {
 .information-top {
     display: flex;
     border-top: 1px solid white
-    /* border: 1px solid white */
 }
 
 .information-bottom {
@@ -120,5 +119,17 @@ a {
 
     .homepage-container {
         margin: 0 1rem;
+    }
+
+    .information-top {
+        flex-direction: column;
+    }
+
+    .information-left {
+        padding: 0 2rem;
+    }
+
+    .information-right {
+        padding: 0 2rem;
     }
 }
